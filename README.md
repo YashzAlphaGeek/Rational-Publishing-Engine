@@ -17,9 +17,8 @@ Includes
 
 ![](https://github.com/YashzAlphaGeek/Rational-Publishing-Engine/blob/main/Images/WaterHeaterTempControlSystem_UseCaseDiagram.png)
 
-# Report on Use Case Diagram using RPE (with DNG , CCM, RQM Links)
-
-![](https://github.com/YashzAlphaGeek/Rational-Publishing-Engine/blob/main/Template/Template/UseCases.pdf)
-
-
-
+<object data="https://github.com/YashzAlphaGeek/Rational-Publishing-Engine/blob/main/Template/Template/UseCases.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://docs.google.com/viewer?url=https://github.com/YashzAlphaGeek/Rational-Publishing-Engine/blob/main/Template/Template/UseCases.pdf">
+        <p>Report on Use Case Diagram using RPE (with DNG , CCM, RQM Links) : Please download the PDF to view it: <a href="https://github.com/YashzAlphaGeek/Rational-Publishing-Engine/blob/main/Template/Template/UseCases.pdf">Use Case Diagram Traceability Report</a>.</p>
+    </embed>
+</object>
