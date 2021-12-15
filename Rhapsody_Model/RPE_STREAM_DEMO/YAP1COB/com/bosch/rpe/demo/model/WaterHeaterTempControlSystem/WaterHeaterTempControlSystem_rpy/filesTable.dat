@@ -1,0 +1,28 @@
+I-Logix-RPY-Archive version 8.15.0 * 9810313
+
+- filesTable = { IRPYRawContainer 
+	- size = 21;
+	- value = "WaterHeaterTempControlSystem.rpy" ""
+	"WaterHeaterTempControlSystem_rpy\\ControlSystem_MSVCDLL.cmp" "_4_DesignSynthesisPkg::ControlSystem_MSVCDLL"
+	"WaterHeaterTempControlSystem_rpy\\GatewayProjectFiles.sbs" "GatewayProjectFiles"
+	"WaterHeaterTempControlSystem_rpy\\RequirementsPkg.sbs" "_1_RequirementsAnalysisPkg::RequirementsPkg"
+	"WaterHeaterTempControlSystem_rpy\\SystemUnderControl_MSVCDLL.cmp" "_4_DesignSynthesisPkg::SystemUnderControl_MSVCDLL"
+	"WaterHeaterTempControlSystem_rpy\\TCon_ControlSystem_Architecture.sbs" "TPkg_ControlSystem::TCon_ControlSystem_Architecture"
+	"WaterHeaterTempControlSystem_rpy\\TCon_ControlSystem_TestControl.sbs" "TPkg_ControlSystem::TCon_ControlSystem_TestControl"
+	"WaterHeaterTempControlSystem_rpy\\TCon_Sensor_Architecture.sbs" "TPkg_Sensor::TCon_Sensor_Architecture"
+	"WaterHeaterTempControlSystem_rpy\\TCon_Sensor_TestControl.sbs" "TPkg_Sensor::TCon_Sensor_TestControl"
+	"WaterHeaterTempControlSystem_rpy\\TPkg_ControlSystem.sbs" "TPkg_ControlSystem"
+	"WaterHeaterTempControlSystem_rpy\\TPkg_ControlSystem_Comp.cmp" "TPkg_ControlSystem::TPkg_ControlSystem_Comp"
+	"WaterHeaterTempControlSystem_rpy\\TPkg_Sensor.sbs" "TPkg_Sensor"
+	"WaterHeaterTempControlSystem_rpy\\TPkg_Sensor_Comp.cmp" "TPkg_Sensor::TPkg_Sensor_Comp"
+	"WaterHeaterTempControlSystem_rpy\\UseCaseDiagramsPkg.sbs" "_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg"
+	"WaterHeaterTempControlSystem_rpy\\_1_RequirementsAnalysisPkg.sbs" "_1_RequirementsAnalysisPkg"
+	"WaterHeaterTempControlSystem_rpy\\_2_ActorPkg.sbs" "_2_ActorPkg"
+	"WaterHeaterTempControlSystem_rpy\\_3_FunctionalAnalysisPkg.sbs" "_3_FunctionalAnalysisPkg"
+	"WaterHeaterTempControlSystem_rpy\\_4_DesignSynthesisPkg.sbs" "_4_DesignSynthesisPkg"
+	"WaterHeaterTempControlSystem_rpy\\_5_InterfacesPkg.sbs" "_5_InterfacesPkg"
+	"WaterHeaterTempControlSystem_rpy\\_6_TypesPkg.sbs" "_6_TypesPkg"
+	"WaterHeaterTempControlSystem_rpy\\_7_TestPkg.sbs" "_7_TestPkg"
+	
+}
+

@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRfMAFv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID ab76e45a-37aa-40ca-984c-c5cb97ce393d</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500330</_rmmServerID>
+			<_name type="a">UseCaseDiagramsPkg</_name>
+			<_modifiedTimeWeak type="a">12.14.2021::18:7:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2021::18:7:8</_modifiedTime>
+			<_lastID type="a">12</_lastID>
+			<weakCGTime type="a">12.14.2021::18:7:8</weakCGTime>
+			<strongCGTime type="a">12.14.2009::16:27:54</strongCGTime>
+			<_defaultComposite type="s">GUID c9d18444-8f69-4b53-bcaa-15084b589ff3</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID a9623a83-120c-4b9f-99ff-d266ed01a2f7</value>
+				<value>GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</value>
+				<value>GUID c9d18444-8f69-4b53-bcaa-15084b589ff3</value>
+				<value>GUID 5b1a8be4-744b-46dd-8a9d-7ccd63b5a8fa</value>
+				<value>GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</value>
+				<value>GUID f528e752-3245-47bb-b063-ecb7ecaefb48</value>
+				<value>GUID 7445b6cd-9a5e-4776-941b-a38a9b574c14</value>
+				<value>GUID b8d58ef1-5de4-4f33-9591-2f11f84ff874</value>
+				<value>GUID 30367a29-da56-4589-9f86-b46d6ebbc75e</value>
+				<value>GUID 1f5ed18c-dfa6-42f0-9dad-65aaa867c157</value>
+				<value>GUID 6051efd3-0aed-4982-bf5f-b2d30778bfbb</value>
+				<value>GUID b567c4cd-389d-4f5f-a65b-e7b1031c5f7f</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IUCDiagram type="e">
+			<fileName type="a">Main_Use_Cases_with_Remote_Requirements</fileName>
+			<_id type="a">GUID a9623a83-120c-4b9f-99ff-d266ed01a2f7</_id>
+			<_name type="a">Main Use Cases with Remote Requirements</_name>
+			<_rmmServerID type="a">1500342</_rmmServerID>
+		</IUCDiagram>
+		<IUCDiagram type="e">
+			<fileName type="a">Use_Cases_for_Water_Heater_Temperature_System</fileName>
+			<_id type="a">GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</_id>
+			<_name type="a">Use Cases for Water Heater Temperature System</_name>
+			<_rmmServerID type="a">1500343</_rmmServerID>
+		</IUCDiagram>
+		<IClass type="e">
+			<_id type="a">GUID c9d18444-8f69-4b53-bcaa-15084b589ff3</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">1500323</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">12.19.2016::4:5:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.19.2016::4:5:2</_modifiedTime>
+			<weakCGTime type="a">12.19.2016::4:5:2</weakCGTime>
+			<strongCGTime type="a">12.14.2009::16:27:54</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IUseCase type="e">
+			<_id type="a">GUID 5b1a8be4-744b-46dd-8a9d-7ccd63b5a8fa</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500331</_rmmServerID>
+			<_name type="a">Set up system</_name>
+			<_modifiedTimeWeak type="a">12.15.2009::19:57:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Use_Cases_for_Water_Heater_Temperature_System.ucdx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Use Cases for Water Heater Temperature System</_hname>
+					<_hid type="a">GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2021::17:23:32</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<weakCGTime type="a">12.15.2009::19:57:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 1bf2796f-9a8a-442c-8e87-7dda6d2d2dcf</value>
+			</AggregatesList>
+		</IUseCase>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1bf2796f-9a8a-442c-8e87-7dda6d2d2dcf</_id>
+			<_myState type="a">10240</_myState>
+			<_rmmServerID type="a">1500340</_rmmServerID>
+			<_name type="a">itsOperator</_name>
+			<_modifiedTimeWeak type="a">12.15.2009::19:57:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.15.2009::19:57:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\_2_ActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">_2_ActorPkg</_hsubsystem>
+					<_hname type="a">Operator</_hname>
+					<_hid type="a">GUID 62e1cda8-0d8f-4798-a939-3646957b02d2</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\_2_ActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">_2_ActorPkg</_hsubsystem>
+					<_hclass type="a">Operator</_hclass>
+					<_hname type="a">itsSet up system</_hname>
+					<_hid type="a">GUID 00b71c99-5e39-4348-bd2d-df9957015218</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IUseCase type="e">
+			<_id type="a">GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500325</_rmmServerID>
+			<_name type="a">Operate system</_name>
+			<_modifiedTimeWeak type="a">12.13.2021::17:32:29</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Use_Cases_for_Water_Heater_Temperature_System.ucdx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Use Cases for Water Heater Temperature System</_hname>
+					<_hid type="a">GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2021::17:24:54</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">12.13.2021::17:32:29</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 471c7086-80aa-4225-b2ba-1216f2da666b</value>
+				<value>GUID 80372408-37b2-4b4e-ae19-76244bf9326e</value>
+			</AggregatesList>
+		</IUseCase>
+		<IDependency type="e">
+			<_id type="a">GUID 471c7086-80aa-4225-b2ba-1216f2da666b</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">1500312</_rmmServerID>
+			<_name type="a">Control temperature and alarm</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.15.2009::20:22:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.15.2009::20:22:35</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 6051efd3-0aed-4982-bf5f-b2d30778bfbb</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 80372408-37b2-4b4e-ae19-76244bf9326e</_id>
+			<_myState type="a">10240</_myState>
+			<_rmmServerID type="a">1500318</_rmmServerID>
+			<_name type="a">itsOperator</_name>
+			<_modifiedTimeWeak type="a">12.15.2009::20:22:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.15.2009::20:22:35</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\_2_ActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">_2_ActorPkg</_hsubsystem>
+					<_hname type="a">Operator</_hname>
+					<_hid type="a">GUID 62e1cda8-0d8f-4798-a939-3646957b02d2</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\_2_ActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">_2_ActorPkg</_hsubsystem>
+					<_hclass type="a">Operator</_hclass>
+					<_hname type="a">itsOperate system</_hname>
+					<_hid type="a">GUID df1c4685-31be-49d1-8c02-6a508a387548</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IUseCase type="e">
+			<_id type="a">GUID f528e752-3245-47bb-b063-ecb7ecaefb48</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500329</_rmmServerID>
+			<_name type="a">Adjust set point and set or unset low-temp alarm</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Use_Cases_for_Water_Heater_Temperature_System.ucdx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Use Cases for Water Heater Temperature System</_hname>
+					<_hid type="a">GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2021::17:24:6</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 0b5d587f-6247-4853-8a0a-c3b5471b3ed7</value>
+			</AggregatesList>
+		</IUseCase>
+		<IGeneralization type="e">
+			<_id type="a">GUID 0b5d587f-6247-4853-8a0a-c3b5471b3ed7</_id>
+			<_rmmServerID type="a">1500313</_rmmServerID>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 5b1a8be4-744b-46dd-8a9d-7ccd63b5a8fa</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IUseCase type="e">
+			<_id type="a">GUID 7445b6cd-9a5e-4776-941b-a38a9b574c14</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500317</_rmmServerID>
+			<_name type="a">Tune control algorithm</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Use_Cases_for_Water_Heater_Temperature_System.ucdx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Use Cases for Water Heater Temperature System</_hname>
+					<_hid type="a">GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2021::17:24:27</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 76c9c369-6dd8-4ad0-a358-1306f8ff9f5c</value>
+			</AggregatesList>
+		</IUseCase>
+		<IGeneralization type="e">
+			<_id type="a">GUID 76c9c369-6dd8-4ad0-a358-1306f8ff9f5c</_id>
+			<_rmmServerID type="a">1500324</_rmmServerID>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 5b1a8be4-744b-46dd-8a9d-7ccd63b5a8fa</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IUseCase type="e">
+			<_id type="a">GUID b8d58ef1-5de4-4f33-9591-2f11f84ff874</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500319</_rmmServerID>
+			<_name type="a">Calibrate sensor</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 064c48ff-81fb-49a7-a1df-381adab09e5b</value>
+			</AggregatesList>
+		</IUseCase>
+		<IGeneralization type="e">
+			<_id type="a">GUID 064c48ff-81fb-49a7-a1df-381adab09e5b</_id>
+			<_rmmServerID type="a">1500328</_rmmServerID>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 5b1a8be4-744b-46dd-8a9d-7ccd63b5a8fa</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IUseCase type="e">
+			<_id type="a">GUID 30367a29-da56-4589-9f86-b46d6ebbc75e</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500335</_rmmServerID>
+			<_name type="a">Activate or deactivate system</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Main_Use_Cases_with_Remote_Requirements.ucdx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Main Use Cases with Remote Requirements</_hname>
+					<_hid type="a">GUID a9623a83-120c-4b9f-99ff-d266ed01a2f7</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2021::17:18:48</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID c74fe5d8-2dd8-488c-8dd8-0cf6df7ddae1</value>
+			</AggregatesList>
+		</IUseCase>
+		<IGeneralization type="e">
+			<_id type="a">GUID c74fe5d8-2dd8-488c-8dd8-0cf6df7ddae1</_id>
+			<_rmmServerID type="a">1500336</_rmmServerID>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IUseCase type="e">
+			<_id type="a">GUID 1f5ed18c-dfa6-42f0-9dad-65aaa867c157</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500311</_rmmServerID>
+			<_name type="a">Enter or exit standby mode</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Main_Use_Cases_with_Remote_Requirements.ucdx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Main Use Cases with Remote Requirements</_hname>
+					<_hid type="a">GUID a9623a83-120c-4b9f-99ff-d266ed01a2f7</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2021::17:14:46</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 306a457d-328f-4b51-88cc-b4748ae6626c</value>
+			</AggregatesList>
+		</IUseCase>
+		<IGeneralization type="e">
+			<_id type="a">GUID 306a457d-328f-4b51-88cc-b4748ae6626c</_id>
+			<_rmmServerID type="a">1500333</_rmmServerID>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IUseCase type="e">
+			<_id type="a">GUID 6051efd3-0aed-4982-bf5f-b2d30778bfbb</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500321</_rmmServerID>
+			<_name type="a">Control temperature and alarm</_name>
+			<_modifiedTimeWeak type="a">12.13.2021::17:32:29</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Use_Cases_for_Water_Heater_Temperature_System.ucdx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Use Cases for Water Heater Temperature System</_hname>
+					<_hid type="a">GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2021::17:24:10</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<weakCGTime type="a">12.13.2021::17:32:29</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+		</IUseCase>
+		<IUseCase type="e">
+			<_id type="a">GUID b567c4cd-389d-4f5f-a65b-e7b1031c5f7f</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500316</_rmmServerID>
+			<_name type="a">Handle alarm</_name>
+			<_modifiedTimeWeak type="a">12.15.2009::19:22:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Use_Cases_for_Water_Heater_Temperature_System.ucdx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Use Cases for Water Heater Temperature System</_hname>
+					<_hid type="a">GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2021::17:24:14</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">12.15.2009::19:22:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 5b0df807-d8cf-41c6-9f85-f257b683ba02</value>
+			</AggregatesList>
+		</IUseCase>
+		<IDependency type="e">
+			<_id type="a">GUID 5b0df807-d8cf-41c6-9f85-f257b683ba02</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">1500315</_rmmServerID>
+			<_name type="a">Control temperature and alarm</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">extend</_hname>
+							<_hid type="a">GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.15.2009::19:22:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.15.2009::19:22:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 6051efd3-0aed-4982-bf5f-b2d30778bfbb</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID b567c4cd-389d-4f5f-a65b-e7b1031c5f7f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1500330</ID>
+			<RHP-ID>GUID ab76e45a-37aa-40ca-984c-c5cb97ce393d</RHP-ID>
+			<NAME>UseCaseDiagramsPkg</NAME>
+			<TYPE>Package</TYPE>
+			<DISPLAY-TYPE>Package</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Packages</DISPLAY-GROUP>
+			<BROWSER-ICON>Package~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Package~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 18:7:8</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500331 | I:1500325 | I:1500329 | I:1500317 | I:1500319 | I:1500335 | I:1500311 | I:1500321 | I:1500316 | L:1500342 | L:1500343</AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>1758</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500331</ID>
+			<RHP-ID>GUID 5b1a8be4-744b-46dd-8a9d-7ccd63b5a8fa</RHP-ID>
+			<NAME>Set up system</NAME>
+			<TYPE>UseCase</TYPE>
+			<DISPLAY-TYPE>UseCase</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Use Cases</DISPLAY-GROUP>
+			<BROWSER-ICON>UseCase~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>UseCase~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 17:23:32</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500340</AGGREGATES>
+			<START-POSITION>2974</START-POSITION>
+			<END-POSITION>4333</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500340</ID>
+			<RHP-ID>GUID 1bf2796f-9a8a-442c-8e87-7dda6d2d2dcf</RHP-ID>
+			<NAME>itsOperator</NAME>
+			<TYPE>AssociationEnd</TYPE>
+			<DISPLAY-TYPE>AssociationEnd</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Association Ends</DISPLAY-GROUP>
+			<BROWSER-ICON>AssociationEnd~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>AssociationEnd~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2009/12/15 19:57:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>4336</START-POSITION>
+			<END-POSITION>5613</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500325</ID>
+			<RHP-ID>GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</RHP-ID>
+			<NAME>Operate system</NAME>
+			<TYPE>UseCase</TYPE>
+			<DISPLAY-TYPE>UseCase</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Use Cases</DISPLAY-GROUP>
+			<BROWSER-ICON>UseCase~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>UseCase~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 17:24:54</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500318 | I:1500312</AGGREGATES>
+			<START-POSITION>5616</START-POSITION>
+			<END-POSITION>7039</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500312</ID>
+			<RHP-ID>GUID 471c7086-80aa-4225-b2ba-1216f2da666b</RHP-ID>
+			<NAME>Control temperature and alarm</NAME>
+			<TYPE>Dependency</TYPE>
+			<DISPLAY-TYPE>Dependency</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Dependencies</DISPLAY-GROUP>
+			<BROWSER-ICON>Dependency~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Dependency~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2009/12/15 20:22:35</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>7042</START-POSITION>
+			<END-POSITION>8249</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500318</ID>
+			<RHP-ID>GUID 80372408-37b2-4b4e-ae19-76244bf9326e</RHP-ID>
+			<NAME>itsOperator</NAME>
+			<TYPE>AssociationEnd</TYPE>
+			<DISPLAY-TYPE>AssociationEnd</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Association Ends</DISPLAY-GROUP>
+			<BROWSER-ICON>AssociationEnd~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>AssociationEnd~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2009/12/15 20:22:35</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>8252</START-POSITION>
+			<END-POSITION>9532</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500329</ID>
+			<RHP-ID>GUID f528e752-3245-47bb-b063-ecb7ecaefb48</RHP-ID>
+			<NAME>Adjust set point and set or unset low-temp alarm</NAME>
+			<TYPE>UseCase</TYPE>
+			<DISPLAY-TYPE>UseCase</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Use Cases</DISPLAY-GROUP>
+			<BROWSER-ICON>UseCase~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>UseCase~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 17:24:6</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500313</AGGREGATES>
+			<START-POSITION>9535</START-POSITION>
+			<END-POSITION>10887</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500313</ID>
+			<RHP-ID>GUID 0b5d587f-6247-4853-8a0a-c3b5471b3ed7</RHP-ID>
+			<NAME>Set up system</NAME>
+			<TYPE>Generalization</TYPE>
+			<DISPLAY-TYPE>Generalization</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Generalizations</DISPLAY-GROUP>
+			<BROWSER-ICON>Generalization~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Generalization~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>10890</START-POSITION>
+			<END-POSITION>11482</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500317</ID>
+			<RHP-ID>GUID 7445b6cd-9a5e-4776-941b-a38a9b574c14</RHP-ID>
+			<NAME>Tune control algorithm</NAME>
+			<TYPE>UseCase</TYPE>
+			<DISPLAY-TYPE>UseCase</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Use Cases</DISPLAY-GROUP>
+			<BROWSER-ICON>UseCase~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>UseCase~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 17:24:27</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500324</AGGREGATES>
+			<START-POSITION>11485</START-POSITION>
+			<END-POSITION>12812</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500324</ID>
+			<RHP-ID>GUID 76c9c369-6dd8-4ad0-a358-1306f8ff9f5c</RHP-ID>
+			<NAME>Set up system</NAME>
+			<TYPE>Generalization</TYPE>
+			<DISPLAY-TYPE>Generalization</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Generalizations</DISPLAY-GROUP>
+			<BROWSER-ICON>Generalization~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Generalization~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>12815</START-POSITION>
+			<END-POSITION>13407</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500319</ID>
+			<RHP-ID>GUID b8d58ef1-5de4-4f33-9591-2f11f84ff874</RHP-ID>
+			<NAME>Calibrate sensor</NAME>
+			<TYPE>UseCase</TYPE>
+			<DISPLAY-TYPE>UseCase</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Use Cases</DISPLAY-GROUP>
+			<BROWSER-ICON>UseCase~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>UseCase~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500328</AGGREGATES>
+			<START-POSITION>13410</START-POSITION>
+			<END-POSITION>14262</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500328</ID>
+			<RHP-ID>GUID 064c48ff-81fb-49a7-a1df-381adab09e5b</RHP-ID>
+			<NAME>Set up system</NAME>
+			<TYPE>Generalization</TYPE>
+			<DISPLAY-TYPE>Generalization</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Generalizations</DISPLAY-GROUP>
+			<BROWSER-ICON>Generalization~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Generalization~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>14265</START-POSITION>
+			<END-POSITION>14857</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500335</ID>
+			<RHP-ID>GUID 30367a29-da56-4589-9f86-b46d6ebbc75e</RHP-ID>
+			<NAME>Activate or deactivate system</NAME>
+			<TYPE>UseCase</TYPE>
+			<DISPLAY-TYPE>UseCase</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Use Cases</DISPLAY-GROUP>
+			<BROWSER-ICON>UseCase~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>UseCase~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 17:18:48</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500336</AGGREGATES>
+			<START-POSITION>14860</START-POSITION>
+			<END-POSITION>16182</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500336</ID>
+			<RHP-ID>GUID c74fe5d8-2dd8-488c-8dd8-0cf6df7ddae1</RHP-ID>
+			<NAME>Operate system</NAME>
+			<TYPE>Generalization</TYPE>
+			<DISPLAY-TYPE>Generalization</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Generalizations</DISPLAY-GROUP>
+			<BROWSER-ICON>Generalization~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Generalization~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>16185</START-POSITION>
+			<END-POSITION>16777</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500311</ID>
+			<RHP-ID>GUID 1f5ed18c-dfa6-42f0-9dad-65aaa867c157</RHP-ID>
+			<NAME>Enter or exit standby mode</NAME>
+			<TYPE>UseCase</TYPE>
+			<DISPLAY-TYPE>UseCase</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Use Cases</DISPLAY-GROUP>
+			<BROWSER-ICON>UseCase~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>UseCase~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 17:14:46</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500333</AGGREGATES>
+			<START-POSITION>16780</START-POSITION>
+			<END-POSITION>18099</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500333</ID>
+			<RHP-ID>GUID 306a457d-328f-4b51-88cc-b4748ae6626c</RHP-ID>
+			<NAME>Operate system</NAME>
+			<TYPE>Generalization</TYPE>
+			<DISPLAY-TYPE>Generalization</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Generalizations</DISPLAY-GROUP>
+			<BROWSER-ICON>Generalization~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Generalization~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>18102</START-POSITION>
+			<END-POSITION>18694</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500321</ID>
+			<RHP-ID>GUID 6051efd3-0aed-4982-bf5f-b2d30778bfbb</RHP-ID>
+			<NAME>Control temperature and alarm</NAME>
+			<TYPE>UseCase</TYPE>
+			<DISPLAY-TYPE>UseCase</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Use Cases</DISPLAY-GROUP>
+			<BROWSER-ICON>UseCase~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>UseCase~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 17:24:10</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>18697</START-POSITION>
+			<END-POSITION>19963</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500316</ID>
+			<RHP-ID>GUID b567c4cd-389d-4f5f-a65b-e7b1031c5f7f</RHP-ID>
+			<NAME>Handle alarm</NAME>
+			<TYPE>UseCase</TYPE>
+			<DISPLAY-TYPE>UseCase</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Use Cases</DISPLAY-GROUP>
+			<BROWSER-ICON>UseCase~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>UseCase~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 17:24:14</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500315</AGGREGATES>
+			<START-POSITION>19966</START-POSITION>
+			<END-POSITION>21324</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500315</ID>
+			<RHP-ID>GUID 5b0df807-d8cf-41c6-9f85-f257b683ba02</RHP-ID>
+			<NAME>Control temperature and alarm</NAME>
+			<TYPE>Dependency</TYPE>
+			<DISPLAY-TYPE>Dependency</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Dependencies</DISPLAY-GROUP>
+			<BROWSER-ICON>Dependency~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Dependency~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2009/12/15 19:22:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>21327</START-POSITION>
+			<END-POSITION>22531</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">10</size>
+			<IOslcLink type="e">
+				<_source type="a">1500325</_source>
+				<_sourceGUID type="a">GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/MB_48f1e2b49aa6449196f657b7d931701b</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#trace</_type>
+			</IOslcLink>
+			
+			<IOslcLink type="e">
+				<_source type="a">1500325</_source>
+				<_sourceGUID type="a">GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/MB_6911fa93bc7b400f81e714275db7f1c3</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#trace</_type>
+			</IOslcLink>
+			
+			<IOslcLink type="e">
+				<_source type="a">1500321</_source>
+				<_sourceGUID type="a">GUID 6051efd3-0aed-4982-bf5f-b2d30778bfbb</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/MB_5956a634742d4a70b4fdfae68fec06b6</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#trace</_type>
+			</IOslcLink>
+			
+			<IOslcLink type="e">
+				<_source type="a">1500321</_source>
+				<_sourceGUID type="a">GUID 6051efd3-0aed-4982-bf5f-b2d30778bfbb</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/MB_38d489c2b28841b3b7a4a0717f9aa00e</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#trace</_type>
+			</IOslcLink>
+			
+			<IOslcLink type="e">
+				<_source type="a">1500321</_source>
+				<_sourceGUID type="a">GUID 6051efd3-0aed-4982-bf5f-b2d30778bfbb</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/MB_23bc0a8ad88f4030ae249938af75e63c</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#trace</_type>
+			</IOslcLink>
+			
+			<IOslcLink type="e">
+				<_source type="a">1500321</_source>
+				<_sourceGUID type="a">GUID 6051efd3-0aed-4982-bf5f-b2d30778bfbb</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/MB_c74e17cf64e540ca95cc67233ae4640a</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#trace</_type>
+			</IOslcLink>
+			
+			<IOslcLink type="e">
+				<_source type="a">1500317</_source>
+				<_sourceGUID type="a">GUID 7445b6cd-9a5e-4776-941b-a38a9b574c14</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/CA_b9ce960f8ae543c088cbd93f7867ed32</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#derives</_type>
+			</IOslcLink>
+			
+			<IOslcLink type="e">
+				<_source type="a">1500335</_source>
+				<_sourceGUID type="a">GUID 30367a29-da56-4589-9f86-b46d6ebbc75e</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/CA_01788946824246a5b7d2f644d8fa4b6b</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#derives</_type>
+			</IOslcLink>
+			
+			<IOslcLink type="e">
+				<_source type="a">1500311</_source>
+				<_sourceGUID type="a">GUID 1f5ed18c-dfa6-42f0-9dad-65aaa867c157</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/CA_de23b55953b04e3b92c1961a8ba157f0</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#satisfy</_type>
+			</IOslcLink>
+			
+			<IOslcLink type="e">
+				<_source type="a">1500325</_source>
+				<_sourceGUID type="a">GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</_sourceGUID>
+				<_target type="a">https://rb-alm-10-t4.de.bosch.com/rm/resources/CA_00c516dda5c2461c84750bccaafb6dff</_target>
+				<_type type="a">http://jazz.net/ns/dm/linktypes#refine</_type>
+			</IOslcLink>
+			
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>22553</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>35024</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>35025</OSLC-LINKS-START>
+<OSLC-LINKS-END>38619</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

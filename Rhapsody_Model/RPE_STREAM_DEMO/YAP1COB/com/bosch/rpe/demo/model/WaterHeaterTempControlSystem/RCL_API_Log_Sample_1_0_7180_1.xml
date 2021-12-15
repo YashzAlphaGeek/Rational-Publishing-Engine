@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="RCL_Log.xsl"?>
+<RCL_Log>
+<Product>Sample</Product>
+<Version>1.0</Version>
+<TimeStamp>2021-12-13T17:06:45+05:30</TimeStamp>
+<Record>
+<Thread_Id>23880</Thread_Id>
+<Event>General</Event>
+<Text>RCL Client Version</Text>
+<Desc>Release :- 8.1.5.1; Build :- RCL8151-I20170619_1306</Desc>
+</Record>
+<Record>
+<Thread_Id>23880</Thread_Id>
+<Event>General</Event>
+<Text>The RCL Log Configuration file wasn't found.</Text>
+<Desc>.</Desc>
+</Record>
+</RCL_Log>

@@ -1,0 +1,168 @@
+I-Logix-RPY-Archive version 8.14.0 C++ 9810313
+{ ISubsystem 
+	- _id = GUID 56507255-7ff1-4149-8c28-012f7aaf5685;
+	- _myState = 8192;
+	- _properties = { IPropertyContainer 
+		- Subjects = { IRPYRawContainer 
+			- size = 2;
+			- value = 
+			{ IPropertySubject 
+				- _Name = "CG";
+				- Metaclasses = { IRPYRawContainer 
+					- size = 1;
+					- value = 
+					{ IPropertyMetaclass 
+						- _Name = "Relation";
+						- Properties = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IProperty 
+								- _Name = "Generate";
+								- _Value = "False";
+								- _Type = Bool;
+							}
+						}
+					}
+				}
+			}
+			{ IPropertySubject 
+				- _Name = "WebComponents";
+				- Metaclasses = { IRPYRawContainer 
+					- size = 2;
+					- value = 
+					{ IPropertyMetaclass 
+						- _Name = "Attribute";
+						- Properties = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IProperty 
+								- _Name = "WebManaged";
+								- _Value = "True";
+								- _Type = Bool;
+							}
+						}
+					}
+					{ IPropertyMetaclass 
+						- _Name = "Event";
+						- Properties = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IProperty 
+								- _Name = "WebManaged";
+								- _Value = "True";
+								- _Type = Bool;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	- _name = "_2_ActorPkg";
+	- _modifiedTimeWeak = 3.5.2021::8:31:52;
+	- _lastID = 1;
+	- weakCGTime = 3.5.2021::8:31:52;
+	- strongCGTime = 3.5.2021::8:31:52;
+	- _defaultComposite = GUID 9f9f75c8-589a-439c-9d04-94095a828ac9;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID 9f9f75c8-589a-439c-9d04-94095a828ac9;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _modifiedTimeWeak = 3.5.2021::8:31:52;
+			- weakCGTime = 3.5.2021::8:31:52;
+			- strongCGTime = 3.5.2021::8:31:52;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- Actors = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IActor 
+			- _id = GUID 62e1cda8-0d8f-4798-a939-3646957b02d2;
+			- _myState = 8192;
+			- _name = "Operator";
+			- _modifiedTimeWeak = 12.15.2009::19:9:36;
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = ".\\UseCaseDiagramsPkg.sbs";
+				- _subsystem = "_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg";
+				- _name = "Use Cases for WaterHeaterTempControl System";
+				- _id = GUID b96e4ecc-2420-4e8c-a678-44cb2e6e0ffb;
+			}
+			- _description = { IDescription 
+				- _text = "This is the person/system that operates the control system. His name is Otto and he's not very bright. ";
+			}
+			- weakCGTime = 12.15.2009::19:9:36;
+			- strongCGTime = 12.15.2009::16:53:46;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 00b71c99-5e39-4348-bd2d-df9957015218;
+					- _myState = 10240;
+					- _name = "itsSet up system";
+					- _modifiedTimeWeak = 12.15.2009::19:9:36;
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _filename = ".\\UseCaseDiagramsPkg.sbs";
+						- _subsystem = "_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg";
+						- _name = "Set up system";
+						- _id = GUID 5b1a8be4-744b-46dd-8a9d-7ccd63b5a8fa;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _filename = ".\\UseCaseDiagramsPkg.sbs";
+						- _subsystem = "_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg";
+						- _class = "Set up system";
+						- _name = "itsOperator";
+						- _id = GUID 1bf2796f-9a8a-442c-8e87-7dda6d2d2dcf;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID df1c4685-31be-49d1-8c02-6a508a387548;
+					- _myState = 10240;
+					- _name = "itsOperate system";
+					- _modifiedTimeWeak = 12.15.2009::19:9:36;
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _filename = ".\\UseCaseDiagramsPkg.sbs";
+						- _subsystem = "_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg";
+						- _name = "Operate system";
+						- _id = GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _filename = ".\\UseCaseDiagramsPkg.sbs";
+						- _subsystem = "_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg";
+						- _class = "Operate system";
+						- _name = "itsOperator";
+						- _id = GUID 80372408-37b2-4b4e-ae19-76244bf9326e;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

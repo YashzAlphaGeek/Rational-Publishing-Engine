@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRcIsFv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 20eab780-6390-47f1-ba60-052692c04af4</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">2</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Package</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">DefineNameSpace</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">GenerateDirectory</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">TestConductor</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Settings</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">CreateTestArchitectureUsingGlobalObjects</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">TestingMode</_Name>
+													<_Value type="a">AssertionBased</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">AnimationBased,AssertionBased</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_rmmServerID type="a">1500299</_rmmServerID>
+			<_name type="a">TPkg_Sensor</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\TestingProfile\TestingProfile_rpy\TestingProfile.sbs</_hfilename>
+							<_hsubsystem type="a">TestingProfile::RTC::TestArchitecture</_hsubsystem>
+							<_hname type="a">TestPackage</_hname>
+							<_hid type="a">GUID 657a25b3-75f1-4419-98a4-e1a65d5a0def</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.19.2016::6:8:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.19.2016::6:8:32</_modifiedTime>
+			<weakCGTime type="a">12.19.2016::6:8:32</weakCGTime>
+			<strongCGTime type="a">12.19.2016::6:8:32</strongCGTime>
+			<_defaultComposite type="s">GUID ae9ecc9c-1c85-47e6-b5a3-0762af1470b2</_defaultComposite>
+			<_eventsBaseID type="a">12401</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.19.2016::6:8:32</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 4c2cef3a-1a66-4bdf-bc2b-f2ed1d6d209a</value>
+				<value>GUID 8cb0c86e-cce2-46d8-a7a9-8018ac40715c</value>
+				<value>GUID 5ddee0ca-68f5-4246-82af-77c9a66f9e36</value>
+				<value>GUID ae9ecc9c-1c85-47e6-b5a3-0762af1470b2</value>
+				<value>GUID f3655279-821b-4b1d-b66f-a1907a4bee8a</value>
+				<value>GUID 194fba5f-a8df-4ee5-ae6a-007f77067160</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">TCon_Sensor_Architecture</fileName>
+			<_id type="a">GUID 4c2cef3a-1a66-4bdf-bc2b-f2ed1d6d209a</_id>
+			<_rmmServerID type="a">1499828</_rmmServerID>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">TCon_Sensor_TestControl</fileName>
+			<_id type="a">GUID 8cb0c86e-cce2-46d8-a7a9-8018ac40715c</_id>
+			<_rmmServerID type="a">1500282</_rmmServerID>
+		</ISubsystem>
+		<IComponent type="e">
+			<fileName type="a">TPkg_Sensor_Comp</fileName>
+			<_id type="a">GUID 5ddee0ca-68f5-4246-82af-77c9a66f9e36</_id>
+			<_rmmServerID type="a">1499596</_rmmServerID>
+		</IComponent>
+		<IClass type="e">
+			<_id type="a">GUID ae9ecc9c-1c85-47e6-b5a3-0762af1470b2</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">1500298</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">12.19.2016::6:8:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.19.2016::6:8:32</_modifiedTime>
+			<weakCGTime type="a">12.19.2016::6:8:32</weakCGTime>
+			<strongCGTime type="a">12.19.2016::6:8:32</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 5e01eb66-3525-4eb7-8735-481bdb67f9e5</value>
+				<value>GUID 4b04df0f-57f4-4b9d-ab60-7f689b8f7daa</value>
+			</AggregatesList>
+		</IClass>
+		<IPart type="e">
+			<_id type="a">GUID 5e01eb66-3525-4eb7-8735-481bdb67f9e5</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500300</_rmmServerID>
+			<_name type="a">itsTCon_Sensor_Scheduler</_name>
+			<_modifiedTimeWeak type="a">12.19.2016::6:8:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.19.2016::6:8:32</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\TCon_Sensor_TestControl.sbsx</_hfilename>
+					<_hsubsystem type="a">TPkg_Sensor::TCon_Sensor_TestControl</_hsubsystem>
+					<_hname type="a">TCon_Sensor_Scheduler</_hname>
+					<_hid type="a">GUID d2d12e3d-27df-4f25-9cc8-598f8e306f69</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 4b04df0f-57f4-4b9d-ab60-7f689b8f7daa</_id>
+			<_myState type="a">10240</_myState>
+			<_rmmServerID type="a">1500301</_rmmServerID>
+			<_name type="a">itsTCon_Sensor</_name>
+			<_modifiedTimeWeak type="a">12.19.2016::6:8:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.19.2016::6:8:32</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\TCon_Sensor_Architecture.sbsx</_hfilename>
+					<_hsubsystem type="a">TPkg_Sensor::TCon_Sensor_Architecture</_hsubsystem>
+					<_hname type="a">TCon_Sensor</_hname>
+					<_hid type="a">GUID 319a4779-e090-4b94-bc6f-3dee7721c3c3</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IEvent type="e">
+			<_id type="a">GUID f3655279-821b-4b1d-b66f-a1907a4bee8a</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500303</_rmmServerID>
+			<_name type="a">evTCStart</_name>
+			<_modifiedTimeWeak type="a">12.19.2016::6:8:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.19.2016::6:8:30</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 194fba5f-a8df-4ee5-ae6a-007f77067160</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500302</_rmmServerID>
+			<_name type="a">evTCFinished</_name>
+			<_modifiedTimeWeak type="a">12.19.2016::6:8:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.19.2016::6:8:30</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1500299</ID>
+			<RHP-ID>GUID 20eab780-6390-47f1-ba60-052692c04af4</RHP-ID>
+			<NAME>TPkg_Sensor</NAME>
+			<TYPE>Package</TYPE>
+			<DISPLAY-TYPE>TestPackage</DISPLAY-TYPE>
+			<DISPLAY-GROUP>TestPackages</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 657a25b3-75f1-4419-98a4-e1a65d5a0def~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 657a25b3-75f1-4419-98a4-e1a65d5a0def~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2016/12/19 6:8:32</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500300 | I:1500301 | I:1500303 | I:1500302 | L:1499828 | L:1500282 | L:1499596</AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>4168</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500300</ID>
+			<RHP-ID>GUID 5e01eb66-3525-4eb7-8735-481bdb67f9e5</RHP-ID>
+			<NAME>itsTCon_Sensor_Scheduler</NAME>
+			<TYPE>Object</TYPE>
+			<DISPLAY-TYPE>Object</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Parts</DISPLAY-GROUP>
+			<BROWSER-ICON>Object~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Object~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2016/12/19 6:8:32</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>5584</START-POSITION>
+			<END-POSITION>6484</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500301</ID>
+			<RHP-ID>GUID 4b04df0f-57f4-4b9d-ab60-7f689b8f7daa</RHP-ID>
+			<NAME>itsTCon_Sensor</NAME>
+			<TYPE>Object</TYPE>
+			<DISPLAY-TYPE>Object</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Parts</DISPLAY-GROUP>
+			<BROWSER-ICON>Object~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Object~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2016/12/19 6:8:32</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>6487</START-POSITION>
+			<END-POSITION>7370</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500303</ID>
+			<RHP-ID>GUID f3655279-821b-4b1d-b66f-a1907a4bee8a</RHP-ID>
+			<NAME>evTCStart()</NAME>
+			<LABEL>evTCStart</LABEL>
+			<TYPE>Event</TYPE>
+			<DISPLAY-TYPE>Event</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Events</DISPLAY-GROUP>
+			<BROWSER-ICON>Event~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Event~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2016/12/19 6:8:30</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>7373</START-POSITION>
+			<END-POSITION>7873</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500302</ID>
+			<RHP-ID>GUID 194fba5f-a8df-4ee5-ae6a-007f77067160</RHP-ID>
+			<NAME>evTCFinished()</NAME>
+			<LABEL>evTCFinished</LABEL>
+			<TYPE>Event</TYPE>
+			<DISPLAY-TYPE>Event</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Events</DISPLAY-GROUP>
+			<BROWSER-ICON>Event~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Event~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2016/12/19 6:8:30</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>7876</START-POSITION>
+			<END-POSITION>8379</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>8401</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>11727</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>11728</OSLC-LINKS-START>
+<OSLC-LINKS-END>11844</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

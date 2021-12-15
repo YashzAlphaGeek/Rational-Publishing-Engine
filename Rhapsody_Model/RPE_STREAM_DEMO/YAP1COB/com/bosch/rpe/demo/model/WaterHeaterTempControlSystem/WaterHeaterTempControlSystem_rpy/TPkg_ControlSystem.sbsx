@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRZFYFv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 784db22d-ec3e-48e8-b9fa-acfb865094eb</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">2</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Package</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">DefineNameSpace</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">GenerateDirectory</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">TestConductor</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Settings</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">CreateTestArchitectureUsingGlobalObjects</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">TestingMode</_Name>
+													<_Value type="a">AssertionBased</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">AnimationBased,AssertionBased</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_rmmServerID type="a">1499711</_rmmServerID>
+			<_name type="a">TPkg_ControlSystem</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\TestingProfile\TestingProfile_rpy\TestingProfile.sbs</_hfilename>
+							<_hsubsystem type="a">TestingProfile::RTC::TestArchitecture</_hsubsystem>
+							<_hname type="a">TestPackage</_hname>
+							<_hid type="a">GUID 657a25b3-75f1-4419-98a4-e1a65d5a0def</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:16</_modifiedTime>
+			<weakCGTime type="a">2.25.2021::8:42:16</weakCGTime>
+			<strongCGTime type="a">2.25.2021::8:42:16</strongCGTime>
+			<_defaultComposite type="s">GUID b8787104-bbf4-4fa4-80d7-21a60a5c116a</_defaultComposite>
+			<_eventsBaseID type="a">8001</_eventsBaseID>
+			<_configurationRelatedTime type="a">2.25.2021::8:42:16</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID ae132e7a-0b7e-40ed-9f4e-40e9f676f302</value>
+				<value>GUID ff10c448-fc4f-462b-885c-5fff5607a930</value>
+				<value>GUID a1071f62-b998-4a2f-a802-1326d3c38d0c</value>
+				<value>GUID b8787104-bbf4-4fa4-80d7-21a60a5c116a</value>
+				<value>GUID ea997635-6ccc-4df6-84cc-0635b5cc1fff</value>
+				<value>GUID ce405195-b355-413c-9238-921ab516a2d3</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">TCon_ControlSystem_Architecture</fileName>
+			<_id type="a">GUID ae132e7a-0b7e-40ed-9f4e-40e9f676f302</_id>
+			<_rmmServerID type="a">1499922</_rmmServerID>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">TCon_ControlSystem_TestControl</fileName>
+			<_id type="a">GUID ff10c448-fc4f-462b-885c-5fff5607a930</_id>
+			<_rmmServerID type="a">1499953</_rmmServerID>
+		</ISubsystem>
+		<IComponent type="e">
+			<fileName type="a">TPkg_ControlSystem_Comp</fileName>
+			<_id type="a">GUID a1071f62-b998-4a2f-a802-1326d3c38d0c</_id>
+			<_rmmServerID type="a">1499584</_rmmServerID>
+		</IComponent>
+		<IClass type="e">
+			<_id type="a">GUID b8787104-bbf4-4fa4-80d7-21a60a5c116a</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">1499708</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:16</_modifiedTime>
+			<weakCGTime type="a">2.25.2021::8:42:16</weakCGTime>
+			<strongCGTime type="a">2.25.2021::8:42:16</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 92ae309e-f00f-4b03-802f-b46fb58e91ca</value>
+				<value>GUID f20ed0da-332d-4fca-b0ad-a23aaebb02f4</value>
+			</AggregatesList>
+		</IClass>
+		<IPart type="e">
+			<_id type="a">GUID 92ae309e-f00f-4b03-802f-b46fb58e91ca</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499710</_rmmServerID>
+			<_name type="a">itsTCon_ControlSystem_Scheduler</_name>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:16</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\TCon_ControlSystem_TestControl.sbsx</_hfilename>
+					<_hsubsystem type="a">TPkg_ControlSystem::TCon_ControlSystem_TestControl</_hsubsystem>
+					<_hname type="a">TCon_ControlSystem_Scheduler</_hname>
+					<_hid type="a">GUID a1cbb438-a479-45da-8e0b-e99d3a86c461</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID f20ed0da-332d-4fca-b0ad-a23aaebb02f4</_id>
+			<_myState type="a">10240</_myState>
+			<_rmmServerID type="a">1499712</_rmmServerID>
+			<_name type="a">itsTCon_ControlSystem</_name>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:16</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\TCon_ControlSystem_Architecture.sbsx</_hfilename>
+					<_hsubsystem type="a">TPkg_ControlSystem::TCon_ControlSystem_Architecture</_hsubsystem>
+					<_hname type="a">TCon_ControlSystem</_hname>
+					<_hid type="a">GUID c1d3103d-6ba5-4fe7-84e8-213ea9331785</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IEvent type="e">
+			<_id type="a">GUID ea997635-6ccc-4df6-84cc-0635b5cc1fff</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499709</_rmmServerID>
+			<_name type="a">evTCStart</_name>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:14</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID ce405195-b355-413c-9238-921ab516a2d3</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499713</_rmmServerID>
+			<_name type="a">evTCFinished</_name>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:14</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1499711</ID>
+			<RHP-ID>GUID 784db22d-ec3e-48e8-b9fa-acfb865094eb</RHP-ID>
+			<NAME>TPkg_ControlSystem</NAME>
+			<TYPE>Package</TYPE>
+			<DISPLAY-TYPE>TestPackage</DISPLAY-TYPE>
+			<DISPLAY-GROUP>TestPackages</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 657a25b3-75f1-4419-98a4-e1a65d5a0def~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 657a25b3-75f1-4419-98a4-e1a65d5a0def~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/2/25 8:42:16</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1499710 | I:1499712 | I:1499709 | I:1499713 | L:1499922 | L:1499953 | L:1499584</AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>4174</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499710</ID>
+			<RHP-ID>GUID 92ae309e-f00f-4b03-802f-b46fb58e91ca</RHP-ID>
+			<NAME>itsTCon_ControlSystem_Scheduler</NAME>
+			<TYPE>Object</TYPE>
+			<DISPLAY-TYPE>Object</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Parts</DISPLAY-GROUP>
+			<BROWSER-ICON>Object~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Object~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/2/25 8:42:16</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>5611</START-POSITION>
+			<END-POSITION>6546</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499712</ID>
+			<RHP-ID>GUID f20ed0da-332d-4fca-b0ad-a23aaebb02f4</RHP-ID>
+			<NAME>itsTCon_ControlSystem</NAME>
+			<TYPE>Object</TYPE>
+			<DISPLAY-TYPE>Object</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Parts</DISPLAY-GROUP>
+			<BROWSER-ICON>Object~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Object~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/2/25 8:42:16</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>6549</START-POSITION>
+			<END-POSITION>7467</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499709</ID>
+			<RHP-ID>GUID ea997635-6ccc-4df6-84cc-0635b5cc1fff</RHP-ID>
+			<NAME>evTCStart()</NAME>
+			<LABEL>evTCStart</LABEL>
+			<TYPE>Event</TYPE>
+			<DISPLAY-TYPE>Event</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Events</DISPLAY-GROUP>
+			<BROWSER-ICON>Event~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Event~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/2/25 8:42:14</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>7470</START-POSITION>
+			<END-POSITION>7970</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499713</ID>
+			<RHP-ID>GUID ce405195-b355-413c-9238-921ab516a2d3</RHP-ID>
+			<NAME>evTCFinished()</NAME>
+			<LABEL>evTCFinished</LABEL>
+			<TYPE>Event</TYPE>
+			<DISPLAY-TYPE>Event</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Events</DISPLAY-GROUP>
+			<BROWSER-ICON>Event~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Event~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/2/25 8:42:14</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>7973</START-POSITION>
+			<END-POSITION>8476</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>8498</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>11845</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>11846</OSLC-LINKS-START>
+<OSLC-LINKS-END>11962</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

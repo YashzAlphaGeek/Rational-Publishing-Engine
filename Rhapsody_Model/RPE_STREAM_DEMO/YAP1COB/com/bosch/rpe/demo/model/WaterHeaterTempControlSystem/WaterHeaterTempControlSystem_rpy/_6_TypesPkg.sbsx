@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRbhoFv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID d6e8afca-6e57-4d3f-a599-c2296f0f47dd</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500013</_rmmServerID>
+			<_name type="a">_6_TypesPkg</_name>
+			<_modifiedTimeWeak type="a">3.5.2021::8:32:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.5.2021::8:32:19</_modifiedTime>
+			<_lastID type="a">15</_lastID>
+			<weakCGTime type="a">3.5.2021::8:32:19</weakCGTime>
+			<strongCGTime type="a">3.5.2021::8:32:19</strongCGTime>
+			<_defaultComposite type="s">GUID e7f17639-8b44-44e3-8d1c-40a1f00a6a9a</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID e7f17639-8b44-44e3-8d1c-40a1f00a6a9a</value>
+				<value>GUID 94b6bf57-128a-4d2a-85a4-622b4763ecd4</value>
+				<value>GUID 2a4ed37d-62db-4783-9838-4cc693a048f9</value>
+				<value>GUID c274ecd2-7c8c-4de0-bd89-54eb7719a0e1</value>
+				<value>GUID 1ab7a260-7354-407a-81dd-ee048cd2e130</value>
+				<value>GUID 0f8c3f17-56b3-4dfc-a0e9-60ae455572fd</value>
+				<value>GUID 97c424b5-4a31-4ec6-aff4-1a5832f392e0</value>
+				<value>GUID ea527843-a1fa-4d25-9f3f-915cf8d7c395</value>
+				<value>GUID e34dfafc-d119-4832-bedf-40f83832af16</value>
+				<value>GUID 396fc077-bd88-4867-9391-668808259073</value>
+				<value>GUID edd44170-41e1-4b47-9d50-681e8e91b293</value>
+				<value>GUID 963e3d49-de0e-42c8-a6d6-598e088f61b0</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID e7f17639-8b44-44e3-8d1c-40a1f00a6a9a</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">1500012</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.5.2021::8:32:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.5.2021::8:32:19</_modifiedTime>
+			<weakCGTime type="a">3.5.2021::8:32:19</weakCGTime>
+			<strongCGTime type="a">3.5.2021::8:32:19</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IType type="e">
+			<_id type="a">GUID 94b6bf57-128a-4d2a-85a4-622b4763ecd4</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Type</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">ReturnType</_Name>
+													<_Value type="a">$type</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_rmmServerID type="a">1500003</_rmmServerID>
+			<_name type="a">degC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typedefBaseType type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">double</_hname>
+					<_hid type="a">GUID 02ef7294-6849-47b9-9fb2-cfb87b56d2ad</_hid>
+				</IClassifierHandle>
+			</_typedefBaseType>
+			<_typedefMultiplicity type="a">1</_typedefMultiplicity>
+			<_typedefIsOrdered type="a">0</_typedefIsOrdered>
+			<_typedefIsReference type="a">0</_typedefIsReference>
+			<_typedefIsConstant type="a">0</_typedefIsConstant>
+			<_kind type="a">Typedef</_kind>
+			<AggregatesList type="e">
+				<value>GUID 7a178884-5873-44ef-beb4-1ae4176983d4</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID 7a178884-5873-44ef-beb4-1ae4176983d4</_id>
+			<_name type="a">unit</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IStereotype</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hname type="a">Unit</_hname>
+					<_hid type="a">GUID 8169396c-a860-42b8-bbb1-8a88cbab3805</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hclass type="a">ValueType</_hclass>
+					<_hname type="a">unit</_hname>
+					<_hid type="a">GUID a917d01d-ef68-4da5-9550-ff96ae3934dc</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 24c3f007-44f5-4f5b-940b-288b2dd3998a</value>
+			</AggregatesList>
+		</ITag>
+		<IInstanceValue type="e">
+			<_id type="a">GUID 24c3f007-44f5-4f5b-940b-288b2dd3998a</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID 1ab7a260-7354-407a-81dd-ee048cd2e130</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IType type="e">
+			<_id type="a">GUID 2a4ed37d-62db-4783-9838-4cc693a048f9</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500007</_rmmServerID>
+			<_name type="a">kJ</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typedefBaseType type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">double</_hname>
+					<_hid type="a">GUID 02ef7294-6849-47b9-9fb2-cfb87b56d2ad</_hid>
+				</IClassifierHandle>
+			</_typedefBaseType>
+			<_typedefMultiplicity type="a">1</_typedefMultiplicity>
+			<_typedefIsOrdered type="a">0</_typedefIsOrdered>
+			<_typedefIsReference type="a">0</_typedefIsReference>
+			<_typedefIsConstant type="a">0</_typedefIsConstant>
+			<_kind type="a">Typedef</_kind>
+			<AggregatesList type="e">
+				<value>GUID b7188241-c5c3-4a75-87e4-dbc8bc2affdb</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID b7188241-c5c3-4a75-87e4-dbc8bc2affdb</_id>
+			<_name type="a">unit</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IStereotype</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hname type="a">Unit</_hname>
+					<_hid type="a">GUID 8169396c-a860-42b8-bbb1-8a88cbab3805</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hclass type="a">ValueType</_hclass>
+					<_hname type="a">unit</_hname>
+					<_hid type="a">GUID a917d01d-ef68-4da5-9550-ff96ae3934dc</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID d38468c1-0c42-4434-aedb-8ccc3b52341c</value>
+			</AggregatesList>
+		</ITag>
+		<IInstanceValue type="e">
+			<_id type="a">GUID d38468c1-0c42-4434-aedb-8ccc3b52341c</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID c274ecd2-7c8c-4de0-bd89-54eb7719a0e1</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IType type="e">
+			<_id type="a">GUID c274ecd2-7c8c-4de0-bd89-54eb7719a0e1</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500004</_rmmServerID>
+			<_name type="a">kiloJoule</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Unit</_hname>
+							<_hid type="a">GUID 8169396c-a860-42b8-bbb1-8a88cbab3805</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_kind type="a">Language</_kind>
+			<AggregatesList type="e">
+				<value>GUID f4b52cf7-5647-4d85-b94f-e3f436602777</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID f4b52cf7-5647-4d85-b94f-e3f436602777</_id>
+			<_name type="a">dimension</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IStereotype</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hname type="a">Dimension</_hname>
+					<_hid type="a">GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hclass type="a">Unit</_hclass>
+					<_hname type="a">dimension</_hname>
+					<_hid type="a">GUID 263b461c-b2bb-456d-8375-cf6698033598</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 0e8f4b56-8e3b-4b54-8641-2f5ab5697384</value>
+			</AggregatesList>
+		</ITag>
+		<IInstanceValue type="e">
+			<_id type="a">GUID 0e8f4b56-8e3b-4b54-8641-2f5ab5697384</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID 97c424b5-4a31-4ec6-aff4-1a5832f392e0</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IType type="e">
+			<_id type="a">GUID 1ab7a260-7354-407a-81dd-ee048cd2e130</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500011</_rmmServerID>
+			<_name type="a">degreesCelcius</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Unit</_hname>
+							<_hid type="a">GUID 8169396c-a860-42b8-bbb1-8a88cbab3805</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_kind type="a">Language</_kind>
+			<AggregatesList type="e">
+				<value>GUID 98f48ebb-24c6-492f-a236-d039d53f61dc</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID 98f48ebb-24c6-492f-a236-d039d53f61dc</_id>
+			<_name type="a">dimension</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IStereotype</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hname type="a">Dimension</_hname>
+					<_hid type="a">GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hclass type="a">Unit</_hclass>
+					<_hname type="a">dimension</_hname>
+					<_hid type="a">GUID 263b461c-b2bb-456d-8375-cf6698033598</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 96c53524-cdb3-483c-a088-7f266214cd44</value>
+			</AggregatesList>
+		</ITag>
+		<IInstanceValue type="e">
+			<_id type="a">GUID 96c53524-cdb3-483c-a088-7f266214cd44</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID 0f8c3f17-56b3-4dfc-a0e9-60ae455572fd</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IType type="e">
+			<_id type="a">GUID 0f8c3f17-56b3-4dfc-a0e9-60ae455572fd</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500002</_rmmServerID>
+			<_name type="a">Temperature</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Dimension</_hname>
+							<_hid type="a">GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IType type="e">
+			<_id type="a">GUID 97c424b5-4a31-4ec6-aff4-1a5832f392e0</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500005</_rmmServerID>
+			<_name type="a">Energy</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Dimension</_hname>
+							<_hid type="a">GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IType type="e">
+			<_id type="a">GUID ea527843-a1fa-4d25-9f3f-915cf8d7c395</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500006</_rmmServerID>
+			<_name type="a">J_per_g_per_degC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typedefBaseType type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">double</_hname>
+					<_hid type="a">GUID 02ef7294-6849-47b9-9fb2-cfb87b56d2ad</_hid>
+				</IClassifierHandle>
+			</_typedefBaseType>
+			<_typedefMultiplicity type="a">1</_typedefMultiplicity>
+			<_typedefIsOrdered type="a">0</_typedefIsOrdered>
+			<_typedefIsReference type="a">0</_typedefIsReference>
+			<_typedefIsConstant type="a">0</_typedefIsConstant>
+			<_kind type="a">Typedef</_kind>
+			<AggregatesList type="e">
+				<value>GUID 80f09abb-87dd-492c-8b2b-19d35f2a39de</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID 80f09abb-87dd-492c-8b2b-19d35f2a39de</_id>
+			<_name type="a">unit</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IStereotype</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hname type="a">Unit</_hname>
+					<_hid type="a">GUID 8169396c-a860-42b8-bbb1-8a88cbab3805</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hclass type="a">ValueType</_hclass>
+					<_hname type="a">unit</_hname>
+					<_hid type="a">GUID a917d01d-ef68-4da5-9550-ff96ae3934dc</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 9e803e68-d21e-46e3-b780-b014eaf486f0</value>
+			</AggregatesList>
+		</ITag>
+		<IInstanceValue type="e">
+			<_id type="a">GUID 9e803e68-d21e-46e3-b780-b014eaf486f0</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID 396fc077-bd88-4867-9391-668808259073</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IType type="e">
+			<_id type="a">GUID e34dfafc-d119-4832-bedf-40f83832af16</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500010</_rmmServerID>
+			<_name type="a">Heat Capacity</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Dimension</_hname>
+							<_hid type="a">GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IType type="e">
+			<_id type="a">GUID 396fc077-bd88-4867-9391-668808259073</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500001</_rmmServerID>
+			<_name type="a">Joule_per_gram_per_degreeCelcius</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Unit</_hname>
+							<_hid type="a">GUID 8169396c-a860-42b8-bbb1-8a88cbab3805</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_kind type="a">Language</_kind>
+			<AggregatesList type="e">
+				<value>GUID 770c5481-0b0f-4990-a88e-cea489b65fae</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID 770c5481-0b0f-4990-a88e-cea489b65fae</_id>
+			<_name type="a">dimension</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IStereotype</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hname type="a">Dimension</_hname>
+					<_hid type="a">GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hclass type="a">Unit</_hclass>
+					<_hname type="a">dimension</_hname>
+					<_hid type="a">GUID 263b461c-b2bb-456d-8375-cf6698033598</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 37e3c32c-ea22-4ac2-94ad-408f928a3fb7</value>
+			</AggregatesList>
+		</ITag>
+		<IInstanceValue type="e">
+			<_id type="a">GUID 37e3c32c-ea22-4ac2-94ad-408f928a3fb7</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID e34dfafc-d119-4832-bedf-40f83832af16</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IType type="e">
+			<_id type="a">GUID edd44170-41e1-4b47-9d50-681e8e91b293</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500009</_rmmServerID>
+			<_name type="a">heat_data_enums</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">DataType</_hname>
+							<_hid type="a">GUID 39bf6572-6f61-4cbf-b651-64241e075688</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<_kind type="a">Enumeration</_kind>
+			<AggregatesList type="e">
+				<value>GUID bff5ddb6-d921-4549-bdf6-08ce4ddc536a</value>
+				<value>GUID 7719ec20-3f2f-49ce-8e1b-516f014204b0</value>
+			</AggregatesList>
+		</IType>
+		<IEnumerationLiteral type="e">
+			<_id type="a">GUID bff5ddb6-d921-4549-bdf6-08ce4ddc536a</_id>
+			<_rmmServerID type="a">1500008</_rmmServerID>
+			<_name type="a">DISABLED</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+		</IEnumerationLiteral>
+		<IEnumerationLiteral type="e">
+			<_id type="a">GUID 7719ec20-3f2f-49ce-8e1b-516f014204b0</_id>
+			<_rmmServerID type="a">1500014</_rmmServerID>
+			<_name type="a">ENABLED</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+		</IEnumerationLiteral>
+		<IType type="e">
+			<_id type="a">GUID 963e3d49-de0e-42c8-a6d6-598e088f61b0</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500015</_rmmServerID>
+			<_name type="a">kg</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typedefBaseType type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">double</_hname>
+					<_hid type="a">GUID 02ef7294-6849-47b9-9fb2-cfb87b56d2ad</_hid>
+				</IClassifierHandle>
+			</_typedefBaseType>
+			<_typedefMultiplicity type="a">1</_typedefMultiplicity>
+			<_typedefIsOrdered type="a">0</_typedefIsOrdered>
+			<_typedefIsReference type="a">0</_typedefIsReference>
+			<_typedefIsConstant type="a">0</_typedefIsConstant>
+			<_kind type="a">Typedef</_kind>
+			<AggregatesList type="e">
+				<value>GUID 1b7ed88e-9724-40e1-9d04-9776263355a1</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID 1b7ed88e-9724-40e1-9d04-9776263355a1</_id>
+			<_name type="a">unit</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IStereotype</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hname type="a">Unit</_hname>
+					<_hid type="a">GUID 8169396c-a860-42b8-bbb1-8a88cbab3805</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+					<_hclass type="a">ValueType</_hclass>
+					<_hname type="a">unit</_hname>
+					<_hid type="a">GUID a917d01d-ef68-4da5-9550-ff96ae3934dc</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 0aa9c8cb-8459-462d-847e-24ccd8faff64</value>
+			</AggregatesList>
+		</ITag>
+		<IInstanceValue type="e">
+			<_id type="a">GUID 0aa9c8cb-8459-462d-847e-24ccd8faff64</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::SIDefinitions::BaseSIUnits</_hsubsystem>
+					<_hname type="a">Kilogram</_hname>
+					<_hid type="a">GUID eb5be710-16c4-433c-8fc1-3637dfe1d928</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1500013</ID>
+			<RHP-ID>GUID d6e8afca-6e57-4d3f-a599-c2296f0f47dd</RHP-ID>
+			<NAME>_6_TypesPkg</NAME>
+			<TYPE>Package</TYPE>
+			<DISPLAY-TYPE>Package</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Packages</DISPLAY-GROUP>
+			<BROWSER-ICON>Package~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Package~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/3/5 8:32:19</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500003 | I:1500007 | I:1500004 | I:1500011 | I:1500002 | I:1500005 | I:1500006 | I:1500010 | I:1500001 | I:1500009 | I:1500015</AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>1745</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500003</ID>
+			<RHP-ID>GUID 94b6bf57-128a-4d2a-85a4-622b4763ecd4</RHP-ID>
+			<NAME>degC</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>ValueType</DISPLAY-TYPE>
+			<DISPLAY-GROUP>ValueTypes</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>2358</START-POSITION>
+			<END-POSITION>4852</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500007</ID>
+			<RHP-ID>GUID 2a4ed37d-62db-4783-9838-4cc693a048f9</RHP-ID>
+			<NAME>kJ</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>ValueType</DISPLAY-TYPE>
+			<DISPLAY-GROUP>ValueTypes</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>6455</START-POSITION>
+			<END-POSITION>7978</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500004</ID>
+			<RHP-ID>GUID c274ecd2-7c8c-4de0-bd89-54eb7719a0e1</RHP-ID>
+			<NAME>kiloJoule</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>Unit</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Units</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 8169396c-a860-42b8-bbb1-8a88cbab3805~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 8169396c-a860-42b8-bbb1-8a88cbab3805~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>9581</START-POSITION>
+			<END-POSITION>10561</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500011</ID>
+			<RHP-ID>GUID 1ab7a260-7354-407a-81dd-ee048cd2e130</RHP-ID>
+			<NAME>degreesCelcius</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>Unit</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Units</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 8169396c-a860-42b8-bbb1-8a88cbab3805~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 8169396c-a860-42b8-bbb1-8a88cbab3805~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>12174</START-POSITION>
+			<END-POSITION>13159</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500002</ID>
+			<RHP-ID>GUID 0f8c3f17-56b3-4dfc-a0e9-60ae455572fd</RHP-ID>
+			<NAME>Temperature</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>Dimension</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Dimensions</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>14772</START-POSITION>
+			<END-POSITION>15648</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500005</ID>
+			<RHP-ID>GUID 97c424b5-4a31-4ec6-aff4-1a5832f392e0</RHP-ID>
+			<NAME>Energy</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>Dimension</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Dimensions</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>15651</START-POSITION>
+			<END-POSITION>16522</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500006</ID>
+			<RHP-ID>GUID ea527843-a1fa-4d25-9f3f-915cf8d7c395</RHP-ID>
+			<NAME>J_per_g_per_degC</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>ValueType</DISPLAY-TYPE>
+			<DISPLAY-GROUP>ValueTypes</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>16525</START-POSITION>
+			<END-POSITION>18062</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500010</ID>
+			<RHP-ID>GUID e34dfafc-d119-4832-bedf-40f83832af16</RHP-ID>
+			<NAME>Heat Capacity</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>Dimension</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Dimensions</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>19665</START-POSITION>
+			<END-POSITION>20543</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500001</ID>
+			<RHP-ID>GUID 396fc077-bd88-4867-9391-668808259073</RHP-ID>
+			<NAME>Joule_per_gram_per_degreeCelcius</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>Unit</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Units</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 8169396c-a860-42b8-bbb1-8a88cbab3805~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 8169396c-a860-42b8-bbb1-8a88cbab3805~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>20546</START-POSITION>
+			<END-POSITION>21549</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500009</ID>
+			<RHP-ID>GUID edd44170-41e1-4b47-9d50-681e8e91b293</RHP-ID>
+			<NAME>heat_data_enums</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>DataType</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Data Types</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 39bf6572-6f61-4cbf-b651-64241e075688~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 39bf6572-6f61-4cbf-b651-64241e075688~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500008 | I:1500014</AGGREGATES>
+			<START-POSITION>23162</START-POSITION>
+			<END-POSITION>24249</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500008</ID>
+			<RHP-ID>GUID bff5ddb6-d921-4549-bdf6-08ce4ddc536a</RHP-ID>
+			<NAME>DISABLED</NAME>
+			<TYPE>EnumerationLiteral</TYPE>
+			<DISPLAY-TYPE>EnumerationLiteral</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Enumeration Literals</DISPLAY-GROUP>
+			<BROWSER-ICON>EnumerationLiteral~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>EnumerationLiteral~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>24252</START-POSITION>
+			<END-POSITION>24583</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500014</ID>
+			<RHP-ID>GUID 7719ec20-3f2f-49ce-8e1b-516f014204b0</RHP-ID>
+			<NAME>ENABLED</NAME>
+			<TYPE>EnumerationLiteral</TYPE>
+			<DISPLAY-TYPE>EnumerationLiteral</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Enumeration Literals</DISPLAY-GROUP>
+			<BROWSER-ICON>EnumerationLiteral~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>EnumerationLiteral~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>24586</START-POSITION>
+			<END-POSITION>24916</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500015</ID>
+			<RHP-ID>GUID 963e3d49-de0e-42c8-a6d6-598e088f61b0</RHP-ID>
+			<NAME>kg</NAME>
+			<TYPE>Type</TYPE>
+			<DISPLAY-TYPE>ValueType</DISPLAY-TYPE>
+			<DISPLAY-GROUP>ValueTypes</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>24919</START-POSITION>
+			<END-POSITION>26442</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>28268</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>37922</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>37923</OSLC-LINKS-START>
+<OSLC-LINKS-END>38039</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

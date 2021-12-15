@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_eQj_4Fv5EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IProfile type="e">
+			<_id type="a">GUID 393f0af9-b382-4c3e-aa31-ad304f2ac38c</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Class</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">GenerateDependencyForEventInSendAction</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_rmmServerID type="a">1500180</_rmmServerID>
+			<_name type="a">CGCompatibilityPre831Cpp</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">Settings</_hname>
+							<_hid type="a">GUID c4916b7f-5ca2-41a3-b8a9-6ac22b145b51</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.12.2018::9:7:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2018::9:7:15</_modifiedTime>
+			<weakCGTime type="a">3.12.2018::9:7:15</weakCGTime>
+			<strongCGTime type="a">3.12.2018::9:7:15</strongCGTime>
+			<_defaultComposite type="s">GUID cb9159c5-3d99-4ae7-98b0-d02ccd129f9d</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID cb9159c5-3d99-4ae7-98b0-d02ccd129f9d</value>
+			</AggregatesList>
+		</IProfile>
+		<IClass type="e">
+			<_id type="a">GUID cb9159c5-3d99-4ae7-98b0-d02ccd129f9d</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">1500181</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.12.2018::9:5:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2018::9:5:51</_modifiedTime>
+			<weakCGTime type="a">3.12.2018::9:5:51</weakCGTime>
+			<strongCGTime type="a">3.12.2018::9:5:51</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1500180</ID>
+			<RHP-ID>GUID 393f0af9-b382-4c3e-aa31-ad304f2ac38c</RHP-ID>
+			<NAME>CGCompatibilityPre831Cpp</NAME>
+			<TYPE>Profile</TYPE>
+			<DISPLAY-TYPE>Settings</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Settings</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID c4916b7f-5ca2-41a3-b8a9-6ac22b145b51~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID c4916b7f-5ca2-41a3-b8a9-6ac22b145b51~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2018/3/12 9:7:15</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>2413</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>3045</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>3779</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>3780</OSLC-LINKS-START>
+<OSLC-LINKS-END>3896</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

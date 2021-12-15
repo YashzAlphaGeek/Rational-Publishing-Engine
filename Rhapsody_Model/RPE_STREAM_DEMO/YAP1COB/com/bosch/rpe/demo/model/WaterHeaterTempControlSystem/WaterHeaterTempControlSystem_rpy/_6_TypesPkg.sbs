@@ -1,0 +1,587 @@
+I-Logix-RPY-Archive version 8.14.0 C++ 9810313
+{ ISubsystem 
+	- _id = GUID d6e8afca-6e57-4d3f-a599-c2296f0f47dd;
+	- _myState = 8192;
+	- _name = "_6_TypesPkg";
+	- _modifiedTimeWeak = 3.5.2021::8:32:19;
+	- _lastID = 15;
+	- weakCGTime = 3.5.2021::8:32:19;
+	- strongCGTime = 3.5.2021::8:32:19;
+	- _defaultComposite = GUID e7f17639-8b44-44e3-8d1c-40a1f00a6a9a;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID e7f17639-8b44-44e3-8d1c-40a1f00a6a9a;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _modifiedTimeWeak = 3.5.2021::8:32:19;
+			- weakCGTime = 3.5.2021::8:32:19;
+			- strongCGTime = 3.5.2021::8:32:19;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- Types = { IRPYRawContainer 
+		- size = 11;
+		- value = 
+		{ IType 
+			- _id = GUID 94b6bf57-128a-4d2a-85a4-622b4763ecd4;
+			- _myState = 8192;
+			- _properties = { IPropertyContainer 
+				- Subjects = { IRPYRawContainer 
+					- size = 1;
+					- value = 
+					{ IPropertySubject 
+						- _Name = "CPP_CG";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "Type";
+								- Properties = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IProperty 
+										- _Name = "ReturnType";
+										- _Value = "$type";
+										- _Type = String;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			- _name = "degC";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "ValueType";
+					- _id = GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- Tags = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ ITag 
+					- _id = GUID 7a178884-5873-44ef-beb4-1ae4176983d4;
+					- _name = "unit";
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IInstanceValue 
+							- _id = GUID 24c3f007-44f5-4f5b-940b-288b2dd3998a;
+							- _modifiedTimeWeak = 1.2.1990::0:0:0;
+							- _value = { IHandle 
+								- _m2Class = "IType";
+								- _id = GUID 1ab7a260-7354-407a-81dd-ee048cd2e130;
+							}
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IStereotype";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _name = "Unit";
+						- _id = GUID 8169396c-a860-42b8-bbb1-8a88cbab3805;
+					}
+					- _isOrdered = 0;
+					- _base = { IHandle 
+						- _m2Class = "ITag";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _class = "ValueType";
+						- _name = "unit";
+						- _id = GUID a917d01d-ef68-4da5-9550-ff96ae3934dc;
+					}
+				}
+			}
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IType";
+				- _filename = ".\\PredefinedTypesC++.sbs";
+				- _subsystem = "PredefinedTypesCpp";
+				- _name = "double";
+				- _id = GUID 02ef7294-6849-47b9-9fb2-cfb87b56d2ad;
+			}
+			- _typedefMultiplicity = "1";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID 2a4ed37d-62db-4783-9838-4cc693a048f9;
+			- _myState = 8192;
+			- _name = "kJ";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "ValueType";
+					- _id = GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- Tags = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ ITag 
+					- _id = GUID b7188241-c5c3-4a75-87e4-dbc8bc2affdb;
+					- _name = "unit";
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IInstanceValue 
+							- _id = GUID d38468c1-0c42-4434-aedb-8ccc3b52341c;
+							- _modifiedTimeWeak = 1.2.1990::0:0:0;
+							- _value = { IHandle 
+								- _m2Class = "IType";
+								- _id = GUID c274ecd2-7c8c-4de0-bd89-54eb7719a0e1;
+							}
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IStereotype";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _name = "Unit";
+						- _id = GUID 8169396c-a860-42b8-bbb1-8a88cbab3805;
+					}
+					- _isOrdered = 0;
+					- _base = { IHandle 
+						- _m2Class = "ITag";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _class = "ValueType";
+						- _name = "unit";
+						- _id = GUID a917d01d-ef68-4da5-9550-ff96ae3934dc;
+					}
+				}
+			}
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IType";
+				- _filename = ".\\PredefinedTypesC++.sbs";
+				- _subsystem = "PredefinedTypesCpp";
+				- _name = "double";
+				- _id = GUID 02ef7294-6849-47b9-9fb2-cfb87b56d2ad;
+			}
+			- _typedefMultiplicity = "1";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID c274ecd2-7c8c-4de0-bd89-54eb7719a0e1;
+			- _myState = 8192;
+			- _name = "kiloJoule";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "Unit";
+					- _id = GUID 8169396c-a860-42b8-bbb1-8a88cbab3805;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- Tags = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ ITag 
+					- _id = GUID f4b52cf7-5647-4d85-b94f-e3f436602777;
+					- _name = "dimension";
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IInstanceValue 
+							- _id = GUID 0e8f4b56-8e3b-4b54-8641-2f5ab5697384;
+							- _modifiedTimeWeak = 1.2.1990::0:0:0;
+							- _value = { IHandle 
+								- _m2Class = "IType";
+								- _id = GUID 97c424b5-4a31-4ec6-aff4-1a5832f392e0;
+							}
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IStereotype";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _name = "Dimension";
+						- _id = GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed;
+					}
+					- _isOrdered = 0;
+					- _base = { IHandle 
+						- _m2Class = "ITag";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _class = "Unit";
+						- _name = "dimension";
+						- _id = GUID 263b461c-b2bb-456d-8375-cf6698033598;
+					}
+				}
+			}
+			- _declaration = "";
+			- _kind = Language;
+		}
+		{ IType 
+			- _id = GUID 1ab7a260-7354-407a-81dd-ee048cd2e130;
+			- _myState = 8192;
+			- _name = "degreesCelcius";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "Unit";
+					- _id = GUID 8169396c-a860-42b8-bbb1-8a88cbab3805;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- Tags = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ ITag 
+					- _id = GUID 98f48ebb-24c6-492f-a236-d039d53f61dc;
+					- _name = "dimension";
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IInstanceValue 
+							- _id = GUID 96c53524-cdb3-483c-a088-7f266214cd44;
+							- _modifiedTimeWeak = 1.2.1990::0:0:0;
+							- _value = { IHandle 
+								- _m2Class = "IType";
+								- _id = GUID 0f8c3f17-56b3-4dfc-a0e9-60ae455572fd;
+							}
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IStereotype";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _name = "Dimension";
+						- _id = GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed;
+					}
+					- _isOrdered = 0;
+					- _base = { IHandle 
+						- _m2Class = "ITag";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _class = "Unit";
+						- _name = "dimension";
+						- _id = GUID 263b461c-b2bb-456d-8375-cf6698033598;
+					}
+				}
+			}
+			- _declaration = "";
+			- _kind = Language;
+		}
+		{ IType 
+			- _id = GUID 0f8c3f17-56b3-4dfc-a0e9-60ae455572fd;
+			- _myState = 8192;
+			- _name = "Temperature";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "Dimension";
+					- _id = GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- _declaration = "";
+			- _kind = Language;
+		}
+		{ IType 
+			- _id = GUID 97c424b5-4a31-4ec6-aff4-1a5832f392e0;
+			- _myState = 8192;
+			- _name = "Energy";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "Dimension";
+					- _id = GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- _declaration = "";
+			- _kind = Language;
+		}
+		{ IType 
+			- _id = GUID ea527843-a1fa-4d25-9f3f-915cf8d7c395;
+			- _myState = 8192;
+			- _name = "J_per_g_per_degC";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "ValueType";
+					- _id = GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- Tags = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ ITag 
+					- _id = GUID 80f09abb-87dd-492c-8b2b-19d35f2a39de;
+					- _name = "unit";
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IInstanceValue 
+							- _id = GUID 9e803e68-d21e-46e3-b780-b014eaf486f0;
+							- _modifiedTimeWeak = 1.2.1990::0:0:0;
+							- _value = { IHandle 
+								- _m2Class = "IType";
+								- _id = GUID 396fc077-bd88-4867-9391-668808259073;
+							}
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IStereotype";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _name = "Unit";
+						- _id = GUID 8169396c-a860-42b8-bbb1-8a88cbab3805;
+					}
+					- _isOrdered = 0;
+					- _base = { IHandle 
+						- _m2Class = "ITag";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _class = "ValueType";
+						- _name = "unit";
+						- _id = GUID a917d01d-ef68-4da5-9550-ff96ae3934dc;
+					}
+				}
+			}
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IType";
+				- _filename = ".\\PredefinedTypesC++.sbs";
+				- _subsystem = "PredefinedTypesCpp";
+				- _name = "double";
+				- _id = GUID 02ef7294-6849-47b9-9fb2-cfb87b56d2ad;
+			}
+			- _typedefMultiplicity = "1";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+		{ IType 
+			- _id = GUID e34dfafc-d119-4832-bedf-40f83832af16;
+			- _myState = 8192;
+			- _name = "Heat Capacity";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "Dimension";
+					- _id = GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- _declaration = "";
+			- _kind = Language;
+		}
+		{ IType 
+			- _id = GUID 396fc077-bd88-4867-9391-668808259073;
+			- _myState = 8192;
+			- _name = "Joule_per_gram_per_degreeCelcius";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "Unit";
+					- _id = GUID 8169396c-a860-42b8-bbb1-8a88cbab3805;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- Tags = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ ITag 
+					- _id = GUID 770c5481-0b0f-4990-a88e-cea489b65fae;
+					- _name = "dimension";
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IInstanceValue 
+							- _id = GUID 37e3c32c-ea22-4ac2-94ad-408f928a3fb7;
+							- _modifiedTimeWeak = 1.2.1990::0:0:0;
+							- _value = { IHandle 
+								- _m2Class = "IType";
+								- _id = GUID e34dfafc-d119-4832-bedf-40f83832af16;
+							}
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IStereotype";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _name = "Dimension";
+						- _id = GUID 3499da9d-b593-4f52-afb7-e4d36eb9e8ed;
+					}
+					- _isOrdered = 0;
+					- _base = { IHandle 
+						- _m2Class = "ITag";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _class = "Unit";
+						- _name = "dimension";
+						- _id = GUID 263b461c-b2bb-456d-8375-cf6698033598;
+					}
+				}
+			}
+			- _declaration = "";
+			- _kind = Language;
+		}
+		{ IType 
+			- _id = GUID edd44170-41e1-4b47-9d50-681e8e91b293;
+			- _myState = 8192;
+			- _name = "heat_data_enums";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "DataType";
+					- _id = GUID 39bf6572-6f61-4cbf-b651-64241e075688;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- _lastID = 3;
+			- Literals = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IEnumerationLiteral 
+					- _id = GUID bff5ddb6-d921-4549-bdf6-08ce4ddc536a;
+					- _name = "DISABLED";
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- _value = "";
+				}
+				{ IEnumerationLiteral 
+					- _id = GUID 7719ec20-3f2f-49ce-8e1b-516f014204b0;
+					- _name = "ENABLED";
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- _value = "";
+				}
+			}
+			- _kind = Enumeration;
+		}
+		{ IType 
+			- _id = GUID 963e3d49-de0e-42c8-a6d6-598e088f61b0;
+			- _myState = 8192;
+			- _name = "kg";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+					- _subsystem = "SysML::Blocks";
+					- _name = "ValueType";
+					- _id = GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f;
+				}
+			}
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- Tags = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ ITag 
+					- _id = GUID 1b7ed88e-9724-40e1-9d04-9776263355a1;
+					- _name = "unit";
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IInstanceValue 
+							- _id = GUID 0aa9c8cb-8459-462d-847e-24ccd8faff64;
+							- _modifiedTimeWeak = 1.2.1990::0:0:0;
+							- _value = { IHandle 
+								- _m2Class = "IType";
+								- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+								- _subsystem = "SysML::SIDefinitions::BaseSIUnits";
+								- _name = "Kilogram";
+								- _id = GUID eb5be710-16c4-433c-8fc1-3637dfe1d928;
+							}
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IStereotype";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _name = "Unit";
+						- _id = GUID 8169396c-a860-42b8-bbb1-8a88cbab3805;
+					}
+					- _isOrdered = 0;
+					- _base = { IHandle 
+						- _m2Class = "ITag";
+						- _filename = "$OMROOT\\Profiles\\SysML\\SysMLProfile_rpy\\SysML.sbs";
+						- _subsystem = "SysML::Blocks";
+						- _class = "ValueType";
+						- _name = "unit";
+						- _id = GUID a917d01d-ef68-4da5-9550-ff96ae3934dc;
+					}
+				}
+			}
+			- _typedefBaseType = { IClassifierHandle 
+				- _m2Class = "IType";
+				- _filename = ".\\PredefinedTypesC++.sbs";
+				- _subsystem = "PredefinedTypesCpp";
+				- _name = "double";
+				- _id = GUID 02ef7294-6849-47b9-9fb2-cfb87b56d2ad;
+			}
+			- _typedefMultiplicity = "1";
+			- _typedefIsOrdered = 0;
+			- _typedefIsReference = 0;
+			- _typedefIsConstant = 0;
+			- _kind = Typedef;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

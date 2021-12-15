@@ -1,0 +1,236 @@
+I-Logix-RPY-Archive version 8.14.0 C++ 9810313
+{ IComponent 
+	- _id = GUID f5173416-6552-443a-b1db-67f981f5a2e2;
+	- _myState = 8192;
+	- _properties = { IPropertyContainer 
+		- Subjects = { IRPYRawContainer 
+			- size = 1;
+			- value = 
+			{ IPropertySubject 
+				- _Name = "CPP_CG";
+				- Metaclasses = { IRPYRawContainer 
+					- size = 2;
+					- value = 
+					{ IPropertyMetaclass 
+						- _Name = "MSVC";
+						- Properties = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IProperty 
+								- _Name = "IDEVersion";
+								- _Value = "VC11";
+								- _Type = Enum;
+								- _ExtraTypeInfo = "VC9,VC10,VC11";
+							}
+						}
+					}
+					{ IPropertyMetaclass 
+						- _Name = "MSVCDLL";
+						- Properties = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IProperty 
+								- _Name = "IDEVersion";
+								- _Value = "VC11";
+								- _Type = Enum;
+								- _ExtraTypeInfo = "VC9,VC10,VC11";
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	- _name = "SystemUnderControl_MSVCDLL";
+	- _modifiedTimeWeak = 12.14.2016::12:5:33;
+	- m_buildType = Library;
+	- m_libraries = "";
+	- m_additionalSources = "$(OMROOT)\\LangCpp\\oxf\\OMSFunctionTimerFactory.cpp,$(OMROOT)\\LangCpp\\oxf\\OMSFunctionTimer.cpp";
+	- m_standardHeaders = "";
+	- m_includePath = "$(OMROOT)\\Profiles\\FMI\\sdk\\models,$(OMROOT)\\Profiles\\FMI\\sdk\\model_exchange\\include,$(OMROOT)\\LangCpp,$(OMROOT)\\LangCpp\\oxf,";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID 17c72490-917f-4488-9abc-f11d21dc3c67;
+		- _myState = 73728;
+		- _name = "Files";
+		- _modifiedTimeWeak = 1.2.1990::0:0:0;
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 2;
+			- value = 
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = ".\\_4_DesignSynthesisPkg.sbs";
+				- _name = "_4_DesignSynthesisPkg";
+				- _id = GUID b4fe81a2-0e5a-4691-8eeb-8588bcbfc9e2;
+			}
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = ".\\_6_TypesPkg.sbs";
+				- _name = "_6_TypesPkg";
+				- _id = GUID d6e8afca-6e57-4d3f-a599-c2296f0f47dd;
+			}
+		}
+		- Files = { IRPYRawContainer 
+			- size = 0;
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID a1dd1e4b-06c7-4861-9e5d-5254184fbf60;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID a1dd1e4b-06c7-4861-9e5d-5254184fbf60;
+			- _myState = 8192;
+			- _properties = { IPropertyContainer 
+				- Subjects = { IRPYRawContainer 
+					- size = 1;
+					- value = 
+					{ IPropertySubject 
+						- _Name = "CPP_CG";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 2;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "Configuration";
+								- Properties = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IProperty 
+										- _Name = "Environment";
+										- _Value = "MSVCDLL";
+										- _Type = Enum;
+										- _ExtraTypeInfo = "Microsoft,MicrosoftDLL,MSVC,MSVCDLL,VxWorks,VxWorks6diab,VxWorks6gnu,VxWorks6diab_RTP,VxWorks6gnu_RTP,Solaris2,Cygwin,MultiWin32,Multi4Win32,MSStandardLibrary,MSVCStandardLibrary,MicrosoftWinCE600,OseSfk,Linux,Solaris2GNU,QNXNeutrinoGCC, QNXNeutrinoMomentics,INTEGRITY,INTEGRITY5,IntegrityESTL,Integrity5ESTL,NucleusPLUS-PPC,WorkbenchManaged,WorkbenchManaged_RTP";
+									}
+								}
+							}
+							{ IPropertyMetaclass 
+								- _Name = "MSVCDLL";
+								- Properties = { IRPYRawContainer 
+									- size = 2;
+									- value = 
+									{ IProperty 
+										- _Name = "BuildCommandSet";
+										- _Value = "Debug";
+										- _Type = Enum;
+										- _ExtraTypeInfo = "Debug,Release";
+									}
+									{ IProperty 
+										- _Name = "UseLIBCMT";
+										- _Value = "True";
+										- _Type = Bool;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			- _name = "FMU";
+			- Dependencies = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IDependency 
+					- _id = GUID 7182b3a2-3955-40cd-b455-4a82d9d22e17;
+					- _myState = 2048;
+					- _name = "SystemUnderControl";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = "$OMROOT\\Profiles\\FMI\\FMI.sbs";
+							- _subsystem = "FMI";
+							- _name = "FMUConfigRef";
+							- _id = GUID da908390-0fbd-4cc4-92e6-b6f93d90a30d;
+						}
+					}
+					- _modifiedTimeWeak = 12.14.2016::8:57:11;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IClass";
+						- _filename = ".\\_4_DesignSynthesisPkg.sbs";
+						- _subsystem = "_4_DesignSynthesisPkg";
+						- _name = "SystemUnderControl";
+						- _id = GUID 261873c2-78d7-47b4-82b4-5a8cc6be4324;
+					}
+				}
+			}
+			- _modifiedTimeWeak = 12.14.2016::12:5:16;
+			- HyperLinks = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 41edcdb1-df2b-4b83-9d89-2746567a7301;
+					- _modifiedTimeWeak = 12.14.2016::8:57:43;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "SystemUnderControl_MSVCDLL.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _lastID = 1;
+			- _scopeType = Derived;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = Animation;
+			- _timeModel = RealTime;
+			- m_generateActors = 0;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- _checksList_Default = 1;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IClass";
+					- _filename = ".\\_4_DesignSynthesisPkg.sbs";
+					- _subsystem = "_4_DesignSynthesisPkg";
+					- _name = "SystemUnderControl";
+					- _id = GUID 261873c2-78d7-47b4-82b4-5a8cc6be4324;
+				}
+			}
+			- _root = { IFolder 
+				- _id = GUID 3ced43bd-85a1-420f-917c-a3f20376b8d8;
+				- _myState = 8192;
+				- _name = "FMU";
+				- _modifiedTimeWeak = 12.14.2016::8:57:11;
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 12.14.2016::12:5:16;
+			- strongCGTime = 12.14.2016::12:5:16;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+			- m_generateUsecases = 0;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 12.14.2016::12:5:33;
+	- strongCGTime = 12.14.2016::8:58:28;
+}
+

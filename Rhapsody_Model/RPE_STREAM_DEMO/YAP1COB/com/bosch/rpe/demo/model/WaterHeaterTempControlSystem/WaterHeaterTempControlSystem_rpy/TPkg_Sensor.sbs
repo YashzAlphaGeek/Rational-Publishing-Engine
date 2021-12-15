@@ -1,0 +1,174 @@
+I-Logix-RPY-Archive version 8.14.0 C++ 9810313
+{ ISubsystem 
+	- _id = GUID 20eab780-6390-47f1-ba60-052692c04af4;
+	- _myState = 8192;
+	- _properties = { IPropertyContainer 
+		- Subjects = { IRPYRawContainer 
+			- size = 2;
+			- value = 
+			{ IPropertySubject 
+				- _Name = "CPP_CG";
+				- Metaclasses = { IRPYRawContainer 
+					- size = 1;
+					- value = 
+					{ IPropertyMetaclass 
+						- _Name = "Package";
+						- Properties = { IRPYRawContainer 
+							- size = 2;
+							- value = 
+							{ IProperty 
+								- _Name = "DefineNameSpace";
+								- _Value = "False";
+								- _Type = Bool;
+							}
+							{ IProperty 
+								- _Name = "GenerateDirectory";
+								- _Value = "False";
+								- _Type = Bool;
+							}
+						}
+					}
+				}
+			}
+			{ IPropertySubject 
+				- _Name = "TestConductor";
+				- Metaclasses = { IRPYRawContainer 
+					- size = 1;
+					- value = 
+					{ IPropertyMetaclass 
+						- _Name = "Settings";
+						- Properties = { IRPYRawContainer 
+							- size = 2;
+							- value = 
+							{ IProperty 
+								- _Name = "CreateTestArchitectureUsingGlobalObjects";
+								- _Value = "False";
+								- _Type = Bool;
+							}
+							{ IProperty 
+								- _Name = "TestingMode";
+								- _Value = "AssertionBased";
+								- _Type = Enum;
+								- _ExtraTypeInfo = "AnimationBased,AssertionBased";
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	- _name = "TPkg_Sensor";
+	- Stereotypes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IHandle 
+			- _m2Class = "IStereotype";
+			- _filename = "$OMROOT\\Profiles\\TestingProfile\\TestingProfile_rpy\\TestingProfile.sbs";
+			- _subsystem = "TestingProfile::RTC::TestArchitecture";
+			- _name = "TestPackage";
+			- _id = GUID 657a25b3-75f1-4419-98a4-e1a65d5a0def;
+		}
+	}
+	- _modifiedTimeWeak = 12.19.2016::6:8:32;
+	- Declaratives = { IRPYRawContainer 
+		- size = 3;
+		- value = 
+		{ ISubsystem 
+			- fileName = "TCon_Sensor_Architecture";
+			- _id = GUID 4c2cef3a-1a66-4bdf-bc2b-f2ed1d6d209a;
+		}
+		{ ISubsystem 
+			- fileName = "TCon_Sensor_TestControl";
+			- _id = GUID 8cb0c86e-cce2-46d8-a7a9-8018ac40715c;
+		}
+		{ IComponent 
+			- fileName = "TPkg_Sensor_Comp";
+			- _id = GUID 5ddee0ca-68f5-4246-82af-77c9a66f9e36;
+		}
+	}
+	- weakCGTime = 12.19.2016::6:8:32;
+	- strongCGTime = 12.19.2016::6:8:32;
+	- _defaultComposite = GUID ae9ecc9c-1c85-47e6-b5a3-0762af1470b2;
+	- _eventsBaseID = 12401;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID ae9ecc9c-1c85-47e6-b5a3-0762af1470b2;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _modifiedTimeWeak = 12.19.2016::6:8:32;
+			- weakCGTime = 12.19.2016::6:8:32;
+			- strongCGTime = 12.19.2016::6:8:32;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IPart 
+					- _id = GUID 5e01eb66-3525-4eb7-8735-481bdb67f9e5;
+					- _myState = 8192;
+					- _name = "itsTCon_Sensor_Scheduler";
+					- _modifiedTimeWeak = 12.19.2016::6:8:32;
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _filename = ".\\TCon_Sensor_TestControl.sbs";
+						- _subsystem = "TPkg_Sensor::TCon_Sensor_TestControl";
+						- _name = "TCon_Sensor_Scheduler";
+						- _id = GUID d2d12e3d-27df-4f25-9cc8-598f8e306f69;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+				}
+				{ IPart 
+					- _id = GUID 4b04df0f-57f4-4b9d-ab60-7f689b8f7daa;
+					- _myState = 10240;
+					- _name = "itsTCon_Sensor";
+					- _modifiedTimeWeak = 12.19.2016::6:8:32;
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _filename = ".\\TCon_Sensor_Architecture.sbs";
+						- _subsystem = "TPkg_Sensor::TCon_Sensor_Architecture";
+						- _name = "TCon_Sensor";
+						- _id = GUID 319a4779-e090-4b94-bc6f-3dee7721c3c3;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- Events = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IEvent 
+			- _id = GUID f3655279-821b-4b1d-b66f-a1907a4bee8a;
+			- _myState = 8192;
+			- _name = "evTCStart";
+			- _modifiedTimeWeak = 12.19.2016::6:8:30;
+			- _virtual = 0;
+			- Args = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IEvent 
+			- _id = GUID 194fba5f-a8df-4ee5-ae6a-007f77067160;
+			- _myState = 8192;
+			- _name = "evTCFinished";
+			- _modifiedTimeWeak = 12.19.2016::6:8:30;
+			- _virtual = 0;
+			- Args = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- _configurationRelatedTime = 12.19.2016::6:8:32;
+}
+

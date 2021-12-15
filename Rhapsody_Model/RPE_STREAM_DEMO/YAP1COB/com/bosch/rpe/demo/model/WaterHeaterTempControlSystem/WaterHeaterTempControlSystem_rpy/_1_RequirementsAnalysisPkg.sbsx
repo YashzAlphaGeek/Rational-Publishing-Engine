@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRl5sFv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID b5e067b9-fff8-495b-b29c-a00dbe2cef75</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499704</_rmmServerID>
+			<_name type="a">_1_RequirementsAnalysisPkg</_name>
+			<_modifiedTimeWeak type="a">12.13.2021::13:22:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2021::13:22:10</_modifiedTime>
+			<weakCGTime type="a">12.13.2021::13:22:10</weakCGTime>
+			<strongCGTime type="a">3.5.2021::8:30:14</strongCGTime>
+			<_defaultComposite type="s">GUID 4fc5f829-978d-4af6-8bd2-8d23edf38ae8</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.13.2021::13:22:10</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID ab76e45a-37aa-40ca-984c-c5cb97ce393d</value>
+				<value>GUID 4fc5f829-978d-4af6-8bd2-8d23edf38ae8</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">UseCaseDiagramsPkg</fileName>
+			<_id type="a">GUID ab76e45a-37aa-40ca-984c-c5cb97ce393d</_id>
+			<_rmmServerID type="a">1500330</_rmmServerID>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 4fc5f829-978d-4af6-8bd2-8d23edf38ae8</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">1499703</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.5.2021::8:30:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.5.2021::8:30:14</_modifiedTime>
+			<weakCGTime type="a">3.5.2021::8:30:14</weakCGTime>
+			<strongCGTime type="a">3.5.2021::8:30:14</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1499704</ID>
+			<RHP-ID>GUID b5e067b9-fff8-495b-b29c-a00dbe2cef75</RHP-ID>
+			<NAME>_1_RequirementsAnalysisPkg</NAME>
+			<TYPE>Package</TYPE>
+			<DISPLAY-TYPE>Package</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Packages</DISPLAY-GROUP>
+			<BROWSER-ICON>Package~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Package~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/13 13:22:10</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>L:1500330</AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>1130</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>1968</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>2647</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>2648</OSLC-LINKS-START>
+<OSLC-LINKS-END>2764</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

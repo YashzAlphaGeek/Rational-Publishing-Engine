@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRhoQFv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID a1071f62-b998-4a2f-a802-1326d3c38d0c</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499584</_rmmServerID>
+			<_name type="a">TPkg_ControlSystem_Comp</_name>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:17</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_includePath type="a">$(OMROOT)/../TestConductor</m_includePath>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID fea7ddb6-c03b-498f-adcf-7561e5aa1cec</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">2.25.2021::8:42:17</weakCGTime>
+			<strongCGTime type="a">2.25.2021::8:42:17</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID e1961b5a-a926-4311-b6ad-ad3d51740977</value>
+				<value>GUID fea7ddb6-c03b-498f-adcf-7561e5aa1cec</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID e1961b5a-a926-4311-b6ad-ad3d51740977</_id>
+			<_myState type="a">73728</_myState>
+			<_rmmServerID type="a">1499585</_rmmServerID>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:17</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">15</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\TCon_ControlSystem_Architecture.sbsx</_hfilename>
+							<_hsubsystem type="a">TPkg_ControlSystem::TCon_ControlSystem_Architecture</_hsubsystem>
+							<_hname type="a">TCon_ControlSystem</_hname>
+							<_hid type="a">GUID c1d3103d-6ba5-4fe7-84e8-213ea9331785</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\TCon_ControlSystem_TestControl.sbsx</_hfilename>
+							<_hsubsystem type="a">TPkg_ControlSystem::TCon_ControlSystem_TestControl</_hsubsystem>
+							<_hname type="a">TCon_ControlSystem_Scheduler</_hname>
+							<_hid type="a">GUID a1cbb438-a479-45da-8e0b-e99d3a86c461</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\_4_DesignSynthesisPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">_4_DesignSynthesisPkg</_hsubsystem>
+							<_hname type="a">ControlSystem</_hname>
+							<_hid type="a">GUID c69a25f3-ee1c-4973-8db5-78d840f52087</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\_4_DesignSynthesisPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">_4_DesignSynthesisPkg</_hsubsystem>
+							<_hname type="a">Sensor</_hname>
+							<_hid type="a">GUID 7e082e24-3dd3-403e-b9a7-8cbf0e91c3c8</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\_4_DesignSynthesisPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">_4_DesignSynthesisPkg</_hsubsystem>
+							<_hname type="a">Controller</_hname>
+							<_hid type="a">GUID 7e5d7294-5f6f-4e43-b62f-a572ac0d0a3f</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\_4_DesignSynthesisPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">_4_DesignSynthesisPkg</_hsubsystem>
+							<_hname type="a">Actuator</_hname>
+							<_hid type="a">GUID 2cb512d4-86a4-4578-a379-906a72860b1d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\TCon_ControlSystem_Architecture.sbsx</_hfilename>
+							<_hsubsystem type="a">TPkg_ControlSystem::TCon_ControlSystem_Architecture</_hsubsystem>
+							<_hname type="a">TC_at_temperature_of_ControlSystem</_hname>
+							<_hid type="a">GUID cdeadf3b-1f10-46fa-a736-e5a8d441b01f</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\TCon_ControlSystem_Architecture.sbsx</_hfilename>
+							<_hsubsystem type="a">TPkg_ControlSystem::TCon_ControlSystem_Architecture</_hsubsystem>
+							<_hname type="a">TC_at_heat_of_ControlSystem</_hname>
+							<_hid type="a">GUID 915a6792-b190-498f-8cbd-e4079b1a187a</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\TCon_ControlSystem_Architecture.sbsx</_hfilename>
+							<_hsubsystem type="a">TPkg_ControlSystem::TCon_ControlSystem_Architecture</_hsubsystem>
+							<_hname type="a">TC_for_itsController_of_ControlSystem</_hname>
+							<_hid type="a">GUID b4bb5652-4511-4597-9e80-71116415305c</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\TCon_ControlSystem_Architecture.sbsx</_hfilename>
+							<_hsubsystem type="a">TPkg_ControlSystem::TCon_ControlSystem_Architecture</_hsubsystem>
+							<_hname type="a">DummyDriver_of_ControlSystem</_hname>
+							<_hid type="a">GUID 336f34d6-1aa2-4faf-b1aa-a23e20caad14</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\TCon_ControlSystem_Architecture.sbsx</_hfilename>
+							<_hsubsystem type="a">TPkg_ControlSystem</_hsubsystem>
+							<_hname type="a">TCon_ControlSystem_Architecture</_hname>
+							<_hid type="a">GUID ae132e7a-0b7e-40ed-9f4e-40e9f676f302</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\TPkg_ControlSystem.sbsx</_hfilename>
+							<_hname type="a">TPkg_ControlSystem</_hname>
+							<_hid type="a">GUID 784db22d-ec3e-48e8-b9fa-acfb865094eb</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\TCon_ControlSystem_TestControl.sbsx</_hfilename>
+							<_hsubsystem type="a">TPkg_ControlSystem</_hsubsystem>
+							<_hname type="a">TCon_ControlSystem_TestControl</_hname>
+							<_hid type="a">GUID ff10c448-fc4f-462b-885c-5fff5607a930</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\_4_DesignSynthesisPkg.sbsx</_hfilename>
+							<_hname type="a">_4_DesignSynthesisPkg</_hname>
+							<_hid type="a">GUID b4fe81a2-0e5a-4691-8eeb-8588bcbfc9e2</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\_6_TypesPkg.sbsx</_hfilename>
+							<_hname type="a">_6_TypesPkg</_hname>
+							<_hid type="a">GUID d6e8afca-6e57-4d3f-a599-c2296f0f47dd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID fea7ddb6-c03b-498f-adcf-7561e5aa1cec</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499582</_rmmServerID>
+			<_name type="a">DefaultConfig</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\TestingProfile\TestingProfile_rpy\TestingProfile.sbs</_hfilename>
+							<_hsubsystem type="a">TestingProfile::RTC::TestArchitecture</_hsubsystem>
+							<_hname type="a">TestingConfiguration</_hname>
+							<_hid type="a">GUID ca6ceb25-8c98-48e5-a54b-ab3ad25ded67</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:17</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">2.25.2021::8:42:17</weakCGTime>
+			<strongCGTime type="a">2.25.2021::8:42:17</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 5874ed16-5ce3-4077-81fe-101aa61f8dfa</value>
+				<value>GUID 700edf3e-49a2-419d-86fa-f939b88d9357</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IDependency type="e">
+			<_id type="a">GUID 5874ed16-5ce3-4077-81fe-101aa61f8dfa</_id>
+			<_rmmServerID type="a">1499581</_rmmServerID>
+			<_name type="a">theScheduler</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">Usage</_hname>
+							<_hid type="a">GUID 42aa4325-6112-4e88-87ce-66008878f1db</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.25.2021::8:42:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.25.2021::8:42:17</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\TCon_ControlSystem_TestControl.sbsx</_hfilename>
+					<_hsubsystem type="a">TPkg_ControlSystem::TCon_ControlSystem_TestControl</_hsubsystem>
+					<_hname type="a">TCon_ControlSystem_Scheduler</_hname>
+					<_hid type="a">GUID a1cbb438-a479-45da-8e0b-e99d3a86c461</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID fea7ddb6-c03b-498f-adcf-7561e5aa1cec</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IFolder type="e">
+			<_id type="a">GUID 700edf3e-49a2-419d-86fa-f939b88d9357</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499583</_rmmServerID>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1499584</ID>
+			<RHP-ID>GUID a1071f62-b998-4a2f-a802-1326d3c38d0c</RHP-ID>
+			<NAME>TPkg_ControlSystem_Comp</NAME>
+			<TYPE>Component</TYPE>
+			<DISPLAY-TYPE>Component</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Components</DISPLAY-GROUP>
+			<BROWSER-ICON>Component~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Component~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/2/25 8:42:17</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1499582 | I:1499585</AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>1538</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499585</ID>
+			<RHP-ID>GUID e1961b5a-a926-4311-b6ad-ad3d51740977</RHP-ID>
+			<NAME>Files</NAME>
+			<TYPE>Folder</TYPE>
+			<DISPLAY-TYPE>Folder</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Folders</DISPLAY-GROUP>
+			<BROWSER-ICON>Folder~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Folder~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/2/25 8:42:17</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>1541</START-POSITION>
+			<END-POSITION>7614</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499582</ID>
+			<RHP-ID>GUID fea7ddb6-c03b-498f-adcf-7561e5aa1cec</RHP-ID>
+			<NAME>DefaultConfig</NAME>
+			<TYPE>Configuration</TYPE>
+			<DISPLAY-TYPE>Configuration</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Configurations</DISPLAY-GROUP>
+			<BROWSER-ICON>Configuration~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Configuration~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/2/25 8:42:17</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1499583 | I:1499581</AGGREGATES>
+			<START-POSITION>7617</START-POSITION>
+			<END-POSITION>9760</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499581</ID>
+			<RHP-ID>GUID 5874ed16-5ce3-4077-81fe-101aa61f8dfa</RHP-ID>
+			<NAME>theScheduler</NAME>
+			<TYPE>Dependency</TYPE>
+			<DISPLAY-TYPE>Dependency</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Dependencies</DISPLAY-GROUP>
+			<BROWSER-ICON>Dependency~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Dependency~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/2/25 8:42:17</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>9763</START-POSITION>
+			<END-POSITION>11146</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499583</ID>
+			<RHP-ID>GUID 700edf3e-49a2-419d-86fa-f939b88d9357</RHP-ID>
+			<NAME>DefaultConfig</NAME>
+			<TYPE>Folder</TYPE>
+			<DISPLAY-TYPE>Folder</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Folders</DISPLAY-GROUP>
+			<BROWSER-ICON>Folder~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Folder~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>11149</START-POSITION>
+			<END-POSITION>11739</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>11761</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>14985</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>14986</OSLC-LINKS-START>
+<OSLC-LINKS-END>15102</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

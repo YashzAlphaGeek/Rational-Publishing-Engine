@@ -1,0 +1,41 @@
+I-Logix-RPY-Archive version 8.14.0 C 9810313
+{ ISubsystem 
+	- _id = GUID d9bb3551-5ab9-4586-9ffc-4a19e579bb6b;
+	- _myState = 8192;
+	- _name = "GatewayProjectFiles";
+	- _modifiedTimeWeak = 11.27.2020::9:41:3;
+	- EmbededFiles = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IEmbededFile 
+			- _id = GUID c7744e8b-f29e-48e9-8b93-1f4eeed5f17e;
+			- _name = "Water_Heater_Temp_Control_Architecture_V2.rqtf";
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- _MayNeedToRelocate = 0;
+			- _LastKnownFullPath = "D:\\WorkRelated\\2021\\ATA\\TrainingModels\\WaterHeaterTempControlSystem\\WaterHeaterTempControlSystem_rpy\\Water_Heater_Temp_Control_Architecture_V2.rqtf";
+		}
+	}
+	- weakCGTime = 11.27.2020::9:41:3;
+	- strongCGTime = 1.2.1990::0:0:0;
+	- _defaultComposite = GUID de3c7f93-574c-47ee-8982-e149edbb93af;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID de3c7f93-574c-47ee-8982-e149edbb93af;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _modifiedTimeWeak = 11.27.2020::9:41:3;
+			- weakCGTime = 11.27.2020::9:41:3;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

@@ -1,0 +1,230 @@
+I-Logix-RPY-Archive version 8.14.0 C++ 9810313
+{ IComponent 
+	- _id = GUID a1071f62-b998-4a2f-a802-1326d3c38d0c;
+	- _myState = 8192;
+	- _name = "TPkg_ControlSystem_Comp";
+	- _modifiedTimeWeak = 2.25.2021::8:42:17;
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "$(OMROOT)/../TestConductor";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID e1961b5a-a926-4311-b6ad-ad3d51740977;
+		- _myState = 73728;
+		- _name = "Files";
+		- _modifiedTimeWeak = 2.25.2021::8:42:17;
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 15;
+			- value = 
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\TCon_ControlSystem_Architecture.sbs";
+				- _subsystem = "TPkg_ControlSystem::TCon_ControlSystem_Architecture";
+				- _name = "TCon_ControlSystem";
+				- _id = GUID c1d3103d-6ba5-4fe7-84e8-213ea9331785;
+			}
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\TCon_ControlSystem_TestControl.sbs";
+				- _subsystem = "TPkg_ControlSystem::TCon_ControlSystem_TestControl";
+				- _name = "TCon_ControlSystem_Scheduler";
+				- _id = GUID a1cbb438-a479-45da-8e0b-e99d3a86c461;
+			}
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\_4_DesignSynthesisPkg.sbs";
+				- _subsystem = "_4_DesignSynthesisPkg";
+				- _name = "ControlSystem";
+				- _id = GUID c69a25f3-ee1c-4973-8db5-78d840f52087;
+			}
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\_4_DesignSynthesisPkg.sbs";
+				- _subsystem = "_4_DesignSynthesisPkg";
+				- _name = "Sensor";
+				- _id = GUID 7e082e24-3dd3-403e-b9a7-8cbf0e91c3c8;
+			}
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\_4_DesignSynthesisPkg.sbs";
+				- _subsystem = "_4_DesignSynthesisPkg";
+				- _name = "Controller";
+				- _id = GUID 7e5d7294-5f6f-4e43-b62f-a572ac0d0a3f;
+			}
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\_4_DesignSynthesisPkg.sbs";
+				- _subsystem = "_4_DesignSynthesisPkg";
+				- _name = "Actuator";
+				- _id = GUID 2cb512d4-86a4-4578-a379-906a72860b1d;
+			}
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\TCon_ControlSystem_Architecture.sbs";
+				- _subsystem = "TPkg_ControlSystem::TCon_ControlSystem_Architecture";
+				- _name = "TC_at_temperature_of_ControlSystem";
+				- _id = GUID cdeadf3b-1f10-46fa-a736-e5a8d441b01f;
+			}
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\TCon_ControlSystem_Architecture.sbs";
+				- _subsystem = "TPkg_ControlSystem::TCon_ControlSystem_Architecture";
+				- _name = "TC_at_heat_of_ControlSystem";
+				- _id = GUID 915a6792-b190-498f-8cbd-e4079b1a187a;
+			}
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\TCon_ControlSystem_Architecture.sbs";
+				- _subsystem = "TPkg_ControlSystem::TCon_ControlSystem_Architecture";
+				- _name = "TC_for_itsController_of_ControlSystem";
+				- _id = GUID b4bb5652-4511-4597-9e80-71116415305c;
+			}
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = ".\\TCon_ControlSystem_Architecture.sbs";
+				- _subsystem = "TPkg_ControlSystem::TCon_ControlSystem_Architecture";
+				- _name = "DummyDriver_of_ControlSystem";
+				- _id = GUID 336f34d6-1aa2-4faf-b1aa-a23e20caad14;
+			}
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = ".\\TCon_ControlSystem_Architecture.sbs";
+				- _subsystem = "TPkg_ControlSystem";
+				- _name = "TCon_ControlSystem_Architecture";
+				- _id = GUID ae132e7a-0b7e-40ed-9f4e-40e9f676f302;
+			}
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = ".\\TPkg_ControlSystem.sbs";
+				- _name = "TPkg_ControlSystem";
+				- _id = GUID 784db22d-ec3e-48e8-b9fa-acfb865094eb;
+			}
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = ".\\TCon_ControlSystem_TestControl.sbs";
+				- _subsystem = "TPkg_ControlSystem";
+				- _name = "TCon_ControlSystem_TestControl";
+				- _id = GUID ff10c448-fc4f-462b-885c-5fff5607a930;
+			}
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = ".\\_4_DesignSynthesisPkg.sbs";
+				- _name = "_4_DesignSynthesisPkg";
+				- _id = GUID b4fe81a2-0e5a-4691-8eeb-8588bcbfc9e2;
+			}
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = ".\\_6_TypesPkg.sbs";
+				- _name = "_6_TypesPkg";
+				- _id = GUID d6e8afca-6e57-4d3f-a599-c2296f0f47dd;
+			}
+		}
+		- Files = { IRPYRawContainer 
+			- size = 0;
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID fea7ddb6-c03b-498f-adcf-7561e5aa1cec;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID fea7ddb6-c03b-498f-adcf-7561e5aa1cec;
+			- _myState = 8192;
+			- _name = "DefaultConfig";
+			- Dependencies = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IDependency 
+					- _id = GUID 5874ed16-5ce3-4077-81fe-101aa61f8dfa;
+					- _name = "theScheduler";
+					- Stereotypes = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IHandle 
+							- _m2Class = "IStereotype";
+							- _filename = ".\\PredefinedTypes.sbs";
+							- _subsystem = "PredefinedTypes";
+							- _name = "Usage";
+							- _id = GUID 42aa4325-6112-4e88-87ce-66008878f1db;
+						}
+					}
+					- _modifiedTimeWeak = 2.25.2021::8:42:17;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IClass";
+						- _filename = ".\\TCon_ControlSystem_TestControl.sbs";
+						- _subsystem = "TPkg_ControlSystem::TCon_ControlSystem_TestControl";
+						- _name = "TCon_ControlSystem_Scheduler";
+						- _id = GUID a1cbb438-a479-45da-8e0b-e99d3a86c461;
+					}
+				}
+			}
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\TestingProfile\\TestingProfile_rpy\\TestingProfile.sbs";
+					- _subsystem = "TestingProfile::RTC::TestArchitecture";
+					- _name = "TestingConfiguration";
+					- _id = GUID ca6ceb25-8c98-48e5-a54b-ab3ad25ded67;
+				}
+			}
+			- _modifiedTimeWeak = 2.25.2021::8:42:17;
+			- _lastID = 1;
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = Animation;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- _checksList_Default = 1;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID 700edf3e-49a2-419d-86fa-f939b88d9357;
+				- _myState = 8192;
+				- _name = "DefaultConfig";
+				- _modifiedTimeWeak = 1.2.1990::0:0:0;
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 2.25.2021::8:42:17;
+			- strongCGTime = 2.25.2021::8:42:17;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+			- m_generateUsecases = 0;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 2.25.2021::8:42:17;
+	- strongCGTime = 2.25.2021::8:42:17;
+}
+

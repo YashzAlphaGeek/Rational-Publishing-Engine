@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRaTgFv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 56507255-7ff1-4149-8c28-012f7aaf5685</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">2</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Relation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Generate</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">WebComponents</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">2</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Attribute</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">WebManaged</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Event</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">WebManaged</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_rmmServerID type="a">1500306</_rmmServerID>
+			<_name type="a">_2_ActorPkg</_name>
+			<_modifiedTimeWeak type="a">12.14.2021::17:22:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.5.2021::8:31:52</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">12.14.2021::17:22:36</weakCGTime>
+			<strongCGTime type="a">3.5.2021::8:31:52</strongCGTime>
+			<_defaultComposite type="s">GUID 9f9f75c8-589a-439c-9d04-94095a828ac9</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 9f9f75c8-589a-439c-9d04-94095a828ac9</value>
+				<value>GUID 62e1cda8-0d8f-4798-a939-3646957b02d2</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 9f9f75c8-589a-439c-9d04-94095a828ac9</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">1500309</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.5.2021::8:31:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.5.2021::8:31:52</_modifiedTime>
+			<weakCGTime type="a">3.5.2021::8:31:52</weakCGTime>
+			<strongCGTime type="a">3.5.2021::8:31:52</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IActor type="e">
+			<_id type="a">GUID 62e1cda8-0d8f-4798-a939-3646957b02d2</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1500308</_rmmServerID>
+			<_name type="a">Operator</_name>
+			<_modifiedTimeWeak type="a">12.14.2021::17:22:36</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Use_Cases_for_Water_Heater_Temperature_System.ucdx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Use Cases for Water Heater Temperature System</_hname>
+					<_hid type="a">GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">This is the person/system that operates the control system. His name is Otto and he's not very bright. </_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.14.2021::17:22:36</_modifiedTime>
+			<weakCGTime type="a">12.14.2021::17:22:36</weakCGTime>
+			<strongCGTime type="a">12.15.2009::16:53:46</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 00b71c99-5e39-4348-bd2d-df9957015218</value>
+				<value>GUID df1c4685-31be-49d1-8c02-6a508a387548</value>
+			</AggregatesList>
+		</IActor>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 00b71c99-5e39-4348-bd2d-df9957015218</_id>
+			<_myState type="a">10240</_myState>
+			<_rmmServerID type="a">1500310</_rmmServerID>
+			<_name type="a">itsSet up system</_name>
+			<_modifiedTimeWeak type="a">12.15.2009::19:9:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.15.2009::19:9:36</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Set up system</_hname>
+					<_hid type="a">GUID 5b1a8be4-744b-46dd-8a9d-7ccd63b5a8fa</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hclass type="a">Set up system</_hclass>
+					<_hname type="a">itsOperator</_hname>
+					<_hid type="a">GUID 1bf2796f-9a8a-442c-8e87-7dda6d2d2dcf</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID df1c4685-31be-49d1-8c02-6a508a387548</_id>
+			<_myState type="a">10240</_myState>
+			<_rmmServerID type="a">1500307</_rmmServerID>
+			<_name type="a">itsOperate system</_name>
+			<_modifiedTimeWeak type="a">12.15.2009::19:9:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.15.2009::19:9:36</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Operate system</_hname>
+					<_hid type="a">GUID fa7a10c2-5abe-4b1b-9c2e-63dd2e9f14e8</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hclass type="a">Operate system</_hclass>
+					<_hname type="a">itsOperator</_hname>
+					<_hid type="a">GUID 80372408-37b2-4b4e-ae19-76244bf9326e</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1500306</ID>
+			<RHP-ID>GUID 56507255-7ff1-4149-8c28-012f7aaf5685</RHP-ID>
+			<NAME>_2_ActorPkg</NAME>
+			<TYPE>Package</TYPE>
+			<DISPLAY-TYPE>Package</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Packages</DISPLAY-GROUP>
+			<BROWSER-ICON>Package~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Package~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/3/5 8:31:52</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500308</AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>3344</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500308</ID>
+			<RHP-ID>GUID 62e1cda8-0d8f-4798-a939-3646957b02d2</RHP-ID>
+			<NAME>Operator</NAME>
+			<TYPE>Actor</TYPE>
+			<DISPLAY-TYPE>Actor</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Actors</DISPLAY-GROUP>
+			<BROWSER-ICON>Actor~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Actor~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/12/14 17:22:36</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1500310 | I:1500307</AGGREGATES>
+			<START-POSITION>3957</START-POSITION>
+			<END-POSITION>5431</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500310</ID>
+			<RHP-ID>GUID 00b71c99-5e39-4348-bd2d-df9957015218</RHP-ID>
+			<NAME>itsSet up system</NAME>
+			<TYPE>AssociationEnd</TYPE>
+			<DISPLAY-TYPE>AssociationEnd</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Association Ends</DISPLAY-GROUP>
+			<BROWSER-ICON>AssociationEnd~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>AssociationEnd~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2009/12/15 19:9:36</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>5434</START-POSITION>
+			<END-POSITION>6807</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1500307</ID>
+			<RHP-ID>GUID df1c4685-31be-49d1-8c02-6a508a387548</RHP-ID>
+			<NAME>itsOperate system</NAME>
+			<TYPE>AssociationEnd</TYPE>
+			<DISPLAY-TYPE>AssociationEnd</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Association Ends</DISPLAY-GROUP>
+			<BROWSER-ICON>AssociationEnd~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>AssociationEnd~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2009/12/15 19:9:36</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>6810</START-POSITION>
+			<END-POSITION>8186</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>8208</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>10818</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>10819</OSLC-LINKS-START>
+<OSLC-LINKS-END>10935</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRi2YFv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID ee027c04-0f3b-4b3d-b9a6-f3f69b71634f</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">2</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">MSVC</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">IDEVersion</_Name>
+													<_Value type="a">VC11</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">VC9,VC10,VC11</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">MSVCDLL</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">IDEVersion</_Name>
+													<_Value type="a">VC11</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">VC9,VC10,VC11</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_rmmServerID type="a">1499589</_rmmServerID>
+			<_name type="a">ControlSystem_MSVCDLL</_name>
+			<_modifiedTimeWeak type="a">12.14.2016::12:4:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2016::12:4:22</_modifiedTime>
+			<m_buildType type="a">Library</m_buildType>
+			<m_additionalSources type="a">$(OMROOT)\LangCpp\oxf\OMSFunctionTimerFactory.cpp,$(OMROOT)\LangCpp\oxf\OMSFunctionTimer.cpp</m_additionalSources>
+			<m_includePath type="a">$(OMROOT)\Profiles\FMI\sdk\models,$(OMROOT)\Profiles\FMI\sdk\model_exchange\include,$(OMROOT)\LangCpp,$(OMROOT)\LangCpp\oxf</m_includePath>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 935eacac-5815-46d5-858f-15ad3bfd24cc</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">12.14.2016::12:4:22</weakCGTime>
+			<strongCGTime type="a">12.14.2016::8:58:28</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID a425a1c5-d9b6-4cb8-88f2-f2a08e231eb6</value>
+				<value>GUID 935eacac-5815-46d5-858f-15ad3bfd24cc</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID a425a1c5-d9b6-4cb8-88f2-f2a08e231eb6</_id>
+			<_myState type="a">73728</_myState>
+			<_rmmServerID type="a">1499587</_rmmServerID>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">2</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\_4_DesignSynthesisPkg.sbsx</_hfilename>
+							<_hname type="a">_4_DesignSynthesisPkg</_hname>
+							<_hid type="a">GUID b4fe81a2-0e5a-4691-8eeb-8588bcbfc9e2</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\_6_TypesPkg.sbs</_hfilename>
+							<_hname type="a">_6_TypesPkg</_hname>
+							<_hid type="a">GUID d6e8afca-6e57-4d3f-a599-c2296f0f47dd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 935eacac-5815-46d5-858f-15ad3bfd24cc</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">2</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Configuration</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Environment</_Name>
+													<_Value type="a">MSVCDLL</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">Microsoft,MicrosoftDLL,MSVC,MSVCDLL,VxWorks,VxWorks6diab,VxWorks6gnu,VxWorks6diab_RTP,VxWorks6gnu_RTP,Solaris2,Cygwin,MultiWin32,Multi4Win32,MSStandardLibrary,MSVCStandardLibrary,MicrosoftWinCE600,OseSfk,Linux,Solaris2GNU,QNXNeutrinoGCC, QNXNeutrinoMomentics,INTEGRITY,INTEGRITY5,IntegrityESTL,Integrity5ESTL,NucleusPLUS-PPC,WorkbenchManaged,WorkbenchManaged_RTP</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">MSVCDLL</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">BuildCommandSet</_Name>
+													<_Value type="a">Debug</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">Debug,Release</_ExtraTypeInfo>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">UseLIBCMT</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_rmmServerID type="a">1499590</_rmmServerID>
+			<_name type="a">FMU</_name>
+			<_modifiedTimeWeak type="a">12.14.2016::12:4:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2016::12:4:22</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_scopeType type="a">Derived</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">0</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\_4_DesignSynthesisPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">_4_DesignSynthesisPkg</_hsubsystem>
+							<_hname type="a">ControlSystem</_hname>
+							<_hid type="a">GUID c69a25f3-ee1c-4973-8db5-78d840f52087</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">12.14.2016::12:4:22</weakCGTime>
+			<strongCGTime type="a">12.14.2016::12:4:22</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID edc5054c-d390-4e61-b8c1-fcc052431729</value>
+				<value>GUID 6bf676b1-c3ba-48f1-857a-4b4717965de5</value>
+				<value>GUID add00c44-0ca9-4b7d-90f9-815bc870d366</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IDependency type="e">
+			<_id type="a">GUID edc5054c-d390-4e61-b8c1-fcc052431729</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">1499586</_rmmServerID>
+			<_name type="a">ControlSystem</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\FMI\FMI.sbs</_hfilename>
+							<_hsubsystem type="a">FMI</_hsubsystem>
+							<_hname type="a">FMUConfigRef</_hname>
+							<_hid type="a">GUID da908390-0fbd-4cc4-92e6-b6f93d90a30d</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.14.2016::9:5:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2016::9:5:1</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\_4_DesignSynthesisPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">_4_DesignSynthesisPkg</_hsubsystem>
+					<_hname type="a">ControlSystem</_hname>
+					<_hid type="a">GUID c69a25f3-ee1c-4973-8db5-78d840f52087</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 935eacac-5815-46d5-858f-15ad3bfd24cc</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IMHyperLink type="e">
+			<_id type="a">GUID 6bf676b1-c3ba-48f1-857a-4b4717965de5</_id>
+			<_modifiedTimeWeak type="a">12.14.2016::12:3:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2016::12:3:44</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Makefile</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">ControlSystem_MSVCDLL.mak</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IFolder type="e">
+			<_id type="a">GUID add00c44-0ca9-4b7d-90f9-815bc870d366</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499588</_rmmServerID>
+			<_name type="a">FMU</_name>
+			<_modifiedTimeWeak type="a">12.14.2016::9:5:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2016::9:5:1</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1499589</ID>
+			<RHP-ID>GUID ee027c04-0f3b-4b3d-b9a6-f3f69b71634f</RHP-ID>
+			<NAME>ControlSystem_MSVCDLL</NAME>
+			<TYPE>Component</TYPE>
+			<DISPLAY-TYPE>Component</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Components</DISPLAY-GROUP>
+			<BROWSER-ICON>Component~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Component~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2016/12/14 12:4:22</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1499590 | I:1499587</AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>3375</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499587</ID>
+			<RHP-ID>GUID a425a1c5-d9b6-4cb8-88f2-f2a08e231eb6</RHP-ID>
+			<NAME>Files</NAME>
+			<TYPE>Folder</TYPE>
+			<DISPLAY-TYPE>Folder</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Folders</DISPLAY-GROUP>
+			<BROWSER-ICON>Folder~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Folder~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>3378</START-POSITION>
+			<END-POSITION>4540</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499590</ID>
+			<RHP-ID>GUID 935eacac-5815-46d5-858f-15ad3bfd24cc</RHP-ID>
+			<NAME>FMU</NAME>
+			<TYPE>Configuration</TYPE>
+			<DISPLAY-TYPE>Configuration</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Configurations</DISPLAY-GROUP>
+			<BROWSER-ICON>Configuration~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Configuration~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2016/12/14 12:4:22</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1499588 | I:1499586</AGGREGATES>
+			<START-POSITION>4543</START-POSITION>
+			<END-POSITION>8707</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499586</ID>
+			<RHP-ID>GUID edc5054c-d390-4e61-b8c1-fcc052431729</RHP-ID>
+			<NAME>ControlSystem</NAME>
+			<TYPE>Dependency</TYPE>
+			<DISPLAY-TYPE>Dependency</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Dependencies</DISPLAY-GROUP>
+			<BROWSER-ICON>Dependency~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Dependency~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2016/12/14 9:5:1</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>8710</START-POSITION>
+			<END-POSITION>10142</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499588</ID>
+			<RHP-ID>GUID add00c44-0ca9-4b7d-90f9-815bc870d366</RHP-ID>
+			<NAME>FMU</NAME>
+			<TYPE>Folder</TYPE>
+			<DISPLAY-TYPE>Folder</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Folders</DISPLAY-GROUP>
+			<BROWSER-ICON>Folder~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Folder~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2016/12/14 9:5:1</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>10717</START-POSITION>
+			<END-POSITION>11301</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>11323</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>14526</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>14527</OSLC-LINKS-START>
+<OSLC-LINKS-END>14643</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

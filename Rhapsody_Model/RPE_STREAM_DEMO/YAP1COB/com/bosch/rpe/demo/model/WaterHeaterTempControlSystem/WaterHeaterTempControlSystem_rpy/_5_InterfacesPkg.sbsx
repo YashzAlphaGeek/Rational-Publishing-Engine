@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRd94Fv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 6120370e-a866-4a6a-a9cf-0892e0e80fc8</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499591</_rmmServerID>
+			<_name type="a">_5_InterfacesPkg</_name>
+			<_modifiedTimeWeak type="a">3.5.2021::8:32:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.5.2021::8:32:10</_modifiedTime>
+			<weakCGTime type="a">3.5.2021::8:32:10</weakCGTime>
+			<strongCGTime type="a">3.5.2021::8:32:10</strongCGTime>
+			<_defaultComposite type="s">GUID cc555420-b979-4e2d-b9bb-d3eed643be2c</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID cc555420-b979-4e2d-b9bb-d3eed643be2c</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID cc555420-b979-4e2d-b9bb-d3eed643be2c</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">1499592</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.5.2021::8:32:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.5.2021::8:32:10</_modifiedTime>
+			<weakCGTime type="a">3.5.2021::8:32:10</weakCGTime>
+			<strongCGTime type="a">3.5.2021::8:32:10</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1499591</ID>
+			<RHP-ID>GUID 6120370e-a866-4a6a-a9cf-0892e0e80fc8</RHP-ID>
+			<NAME>_5_InterfacesPkg</NAME>
+			<TYPE>Package</TYPE>
+			<DISPLAY-TYPE>Package</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Packages</DISPLAY-GROUP>
+			<BROWSER-ICON>Package~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Package~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2021/3/5 8:32:10</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>235</START-POSITION>
+			<END-POSITION>1045</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>1677</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>2334</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>2335</OSLC-LINKS-START>
+<OSLC-LINKS-END>2451</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

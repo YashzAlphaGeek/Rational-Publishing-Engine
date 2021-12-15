@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>*</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<CGEMdiWorkspace type="e">
+			<stubList type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</stubList>
+			<isLoadOnDemand type="a">0</isLoadOnDemand>
+			<myViewsWithID type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">2</size>
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">130</m_nLeft>
+								<m_nTop type="a">130</m_nTop>
+								<m_nRight type="a">1110</m_nRight>
+								<m_nBottom type="a">612</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\WaterHeaterTempControlSystem_rpy\Main_Use_Cases_with_Remote_Requirements.ucdx</_hfilename>
+								<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+								<_hname type="a">Main Use Cases with Remote Requirements</_hname>
+								<_hid type="a">GUID a9623a83-120c-4b9f-99ff-d266ed01a2f7</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 20 </_UpLeft>
+						<_DownRight type="a">1134 528 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">208</m_nLeft>
+								<m_nTop type="a">208</m_nTop>
+								<m_nRight type="a">1073</m_nRight>
+								<m_nBottom type="a">755</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\WaterHeaterTempControlSystem_rpy\Use_Cases_for_Water_Heater_Temperature_System.ucdx</_hfilename>
+								<_hsubsystem type="a">_1_RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+								<_hname type="a">Use Cases for Water Heater Temperature System</_hname>
+								<_hid type="a">GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1104 786 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+				</IRPYRawContainer>
+			</myViewsWithID>
+			<_fullName type="a">C:\sandboxes\YashRMMPlayground\RPE_STREAM_DEMO\YAP1COB\com\bosch\rpe\demo\model\WaterHeaterTempControlSystem\WaterHeaterTempControlSystem</_fullName>
+			<m_SearchScopeList type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</m_SearchScopeList>
+			<bUsingBrowserCustomView type="a">1</bUsingBrowserCustomView>
+			<bApplyOnDiagrams type="a">0</bApplyOnDiagrams>
+			<liCustomViewIDs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</liCustomViewIDs>
+			<mapOslcRmCollections type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">3</size>
+					<value>$$$KEYhttps://rb-alm-10-t4.de.bosch.com/ccm/process/project-areas/_n3_WEEM-EeqNfpGbgCOgdg;Linked$$$VALUE</value>
+					
+					<value>$$$KEYhttps://rb-alm-10-t4.de.bosch.com/qm/process/project-areas/_D-xakEM_Eeqgj45hccQMDA;Linked$$$VALUE</value>
+					
+					<value>$$$KEYhttps://rb-alm-10-t4.de.bosch.com/rm/process/project-areas/_ivTvkEM_EeqDB8YywBnifw;Linked$$$VALUEhttps://rb-alm-10-t4.de.bosch.com/rm/resources/_xKQiZFv8EeyoD-pR_4grHw#All</value>
+					
+				</IRPYRawContainer>
+			</mapOslcRmCollections>
+			<diagramsToPublish type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">12</size>
+					<value>GUID a9623a83-120c-4b9f-99ff-d266ed01a2f7</value>
+					<value>GUID 3f377fd3-2e33-4df0-ae10-a8b08416e280</value>
+					<value>GUID b7c5508c-ed61-4736-96a9-d040f0b27d96</value>
+					<value>GUID b55476cd-4668-47aa-ba33-bd3e15bbf809</value>
+					<value>GUID 6bb172d1-99d6-48e4-8db4-196eb1de080d</value>
+					<value>GUID d07291a5-a266-4234-9a6b-1144888af218</value>
+					<value>GUID 1d2c0dd7-c542-4099-a250-66c3a6e2dcce</value>
+					<value>GUID 45069001-a133-4185-a81b-f3da2527893d</value>
+					<value>GUID 637a35a2-83b1-48f8-831c-fbd49b2c0d37</value>
+					<value>GUID 91c196f5-22f6-4d6e-a9c7-057879d82967</value>
+					<value>GUID 01aff55b-c358-464c-b11a-e7e708f17d29</value>
+					<value>GUID fcda3546-f88a-489d-89ab-ea5407b2bb74</value>
+				</IRPYRawContainer>
+			</diagramsToPublish>
+			<favoritesItem type="e">
+				<generation type="a">0</generation>
+				<name type="a">Favorites</name>
+				<idOrFolder type="a">folder</idOrFolder>
+			</favoritesItem>
+			
+		</CGEMdiWorkspace>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

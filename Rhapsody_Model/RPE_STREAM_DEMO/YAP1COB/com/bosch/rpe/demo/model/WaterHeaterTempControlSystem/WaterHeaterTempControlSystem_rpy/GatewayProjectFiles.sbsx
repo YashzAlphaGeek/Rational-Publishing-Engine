@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber>_BRVbAFv6EeyB8s6UFe4ltQ</MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C</lang>
+	<BuildNo>9844162</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID d9bb3551-5ab9-4586-9ffc-4a19e579bb6b</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">1499705</_rmmServerID>
+			<_name type="a">GatewayProjectFiles</_name>
+			<_modifiedTimeWeak type="a">11.27.2020::9:41:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.27.2020::9:41:3</_modifiedTime>
+			<weakCGTime type="a">11.27.2020::9:41:3</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID de3c7f93-574c-47ee-8982-e149edbb93af</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID c7744e8b-f29e-48e9-8b93-1f4eeed5f17e</value>
+				<value>GUID de3c7f93-574c-47ee-8982-e149edbb93af</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IEmbededFile type="e">
+			<_id type="a">GUID c7744e8b-f29e-48e9-8b93-1f4eeed5f17e</_id>
+			<_rmmServerID type="a">1499706</_rmmServerID>
+			<_name type="a">Water_Heater_Temp_Control_Architecture_V2.rqtf</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_MayNeedToRelocate type="a">0</_MayNeedToRelocate>
+			<_LastKnownFullPath type="a">D:\WorkRelated\2021\ATA\TrainingModels\WaterHeaterTempControlSystem\WaterHeaterTempControlSystem_rpy\Water_Heater_Temp_Control_Architecture_V2.rqtf</_LastKnownFullPath>
+		</IEmbededFile>
+		<IClass type="e">
+			<_id type="a">GUID de3c7f93-574c-47ee-8982-e149edbb93af</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">1499707</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">11.27.2020::9:41:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.27.2020::9:41:3</_modifiedTime>
+			<weakCGTime type="a">11.27.2020::9:41:3</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1499705</ID>
+			<RHP-ID>GUID d9bb3551-5ab9-4586-9ffc-4a19e579bb6b</RHP-ID>
+			<NAME>GatewayProjectFiles</NAME>
+			<TYPE>Package</TYPE>
+			<DISPLAY-TYPE>Package</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Packages</DISPLAY-GROUP>
+			<BROWSER-ICON>Package~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Package~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2020/11/27 9:41:3</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:1499706</AGGREGATES>
+			<START-POSITION>233</START-POSITION>
+			<END-POSITION>1108</END-POSITION></ELEMENT>
+		<ELEMENT>
+			<ID>1499706</ID>
+			<RHP-ID>GUID c7744e8b-f29e-48e9-8b93-1f4eeed5f17e</RHP-ID>
+			<NAME>Water_Heater_Temp_Control_Architecture_V2.rqtf</NAME>
+			<TYPE>ControlledFile</TYPE>
+			<DISPLAY-TYPE>ControlledFile</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Controlled Files</DISPLAY-GROUP>
+			<BROWSER-ICON>ControlledFile~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>ControlledFile~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>1990/1/2 0:0:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<START-POSITION>1111</START-POSITION>
+			<END-POSITION>1722</END-POSITION></ELEMENT>
+	</RHAPSODY-INDEX>
+
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<RHAPSODY-INDEX-START>2355</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>3711</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>3712</OSLC-LINKS-START>
+<OSLC-LINKS-END>3828</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
