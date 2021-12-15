@@ -22,3 +22,6 @@ Includes
         <p>Report on Use Case Diagram using RPE (with DNG , CCM, RQM Links) : Please download the PDF to view it: <a href="https://github.com/YashzAlphaGeek/Rational-Publishing-Engine/blob/main/Template/Template/UseCases.pdf">Use Case Diagram Traceability Report</a>.</p>
     </embed>
 </object>
+
+Info:
+The RPE generated report shows the traceability between Rhapsody, DNG, CCM and RQM. Please find the basic report on Use Case Diagram of Water Heater Temperature Contol System.
